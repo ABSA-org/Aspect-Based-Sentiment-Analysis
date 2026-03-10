@@ -1,0 +1,53 @@
+[
+  {
+    "review_id": 1,
+    "preprocessed_review": [
+      "nice","pick","good","battery","power","almost","everything","seem",
+      "fine","never","disappoint","safety","visible","clear","look",
+      "comfort","best","level","easy","service","low","maintenance",
+      "even","long","drive","highway","price","segment","best",
+      "kind","compare","nexon"
+    ]
+  },
+  {
+    "review_id": 2,
+    "preprocessed_review": [
+      "awesomeness","car","love","budget","friendly","cool","look",
+      "best","car","segment","confuse","want","buy","first","car",
+      "worth","money","trust","every","feature","sporty","look",
+      "tata","nexon","segment","killer","day","go","people",
+      "budget","around","15","lakh","go"
+    ]
+  },
+  {
+    "review_id": 3,
+    "preprocessed_review": [
+      "regret","buy","tata","nexon","ev","car","never","give",
+      "promise","mileage","range","matter","drive","send",
+      "workshop","several","time","every","time","return",
+      "excuse","instead","fix","feel","like","tata","fool",
+      "customer","false","claim","honest","advice","please",
+      "waste","money","tata","ev","instead","buy","company","vehicle"
+    ]
+  },
+  {
+    "review_id": 4,
+    "preprocessed_review": [
+      "car","good","get","exact","km","showroom","maintenance","low",
+      "service","good","take","much","time","charge","home",
+      "charging","price","moderate","performance","also","good",
+      "suitable","low","range","distance","come","speed","also",
+      "good","good","space","sufficient","need","much","sufficient",
+      "space","3","people","overall","budget","eco-friendly","car",
+      "thank","tata","thank","nexon"
+    ]
+  },
+  {
+    "review_id": 5,
+    "preprocessed_review": [
+      "good","condition","smooth","drive","fast","charging",
+      "good","range","good","pick","within","range","cost",
+      "well","suggest","buy"
+    ]
+  }
+]
