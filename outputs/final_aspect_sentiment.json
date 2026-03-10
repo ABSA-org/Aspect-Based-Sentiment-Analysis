@@ -1,3 +1,15 @@
-{
-  "reviews": []
-}
+[
+    {
+        "review_id": 1,
+        "aspect_sentiment": {
+            "performance": "neutral",
+            "battery": "neutral",
+            "safety": "neutral",
+            "appearance": "neutral",
+            "comfort": "neutral",
+            "service": "positive",
+            "usability": "neutral",
+            "price": "neutral"
+        }
+    }
+]
