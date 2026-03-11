@@ -1,70 +1,18 @@
 {
     "performance": {
         "counts": {
-            "positive": 0,
+            "positive": 1,
             "negative": 0,
-            "neutral": 1
+            "neutral": 4
         },
         "percentage": {
-            "positive": 0.0,
+            "positive": 20.0,
             "negative": 0.0,
-            "neutral": 100.0
+            "neutral": 80.0
         },
         "final_sentiment": "neutral"
     },
     "battery": {
-        "counts": {
-            "positive": 0,
-            "negative": 0,
-            "neutral": 1
-        },
-        "percentage": {
-            "positive": 0.0,
-            "negative": 0.0,
-            "neutral": 100.0
-        },
-        "final_sentiment": "neutral"
-    },
-    "safety": {
-        "counts": {
-            "positive": 0,
-            "negative": 0,
-            "neutral": 1
-        },
-        "percentage": {
-            "positive": 0.0,
-            "negative": 0.0,
-            "neutral": 100.0
-        },
-        "final_sentiment": "neutral"
-    },
-    "appearance": {
-        "counts": {
-            "positive": 0,
-            "negative": 0,
-            "neutral": 1
-        },
-        "percentage": {
-            "positive": 0.0,
-            "negative": 0.0,
-            "neutral": 100.0
-        },
-        "final_sentiment": "neutral"
-    },
-    "comfort": {
-        "counts": {
-            "positive": 0,
-            "negative": 0,
-            "neutral": 1
-        },
-        "percentage": {
-            "positive": 0.0,
-            "negative": 0.0,
-            "neutral": 100.0
-        },
-        "final_sentiment": "neutral"
-    },
-    "service": {
         "counts": {
             "positive": 1,
             "negative": 0,
@@ -77,7 +25,85 @@
         },
         "final_sentiment": "positive"
     },
+    "safety": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "percentage": {
+            "positive": 100.0,
+            "negative": 0.0,
+            "neutral": 0.0
+        },
+        "final_sentiment": "positive"
+    },
+    "appearance": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 2
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "comfort": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 2
+        },
+        "percentage": {
+            "positive": 33.33,
+            "negative": 0.0,
+            "neutral": 66.67
+        },
+        "final_sentiment": "neutral"
+    },
+    "service": {
+        "counts": {
+            "positive": 1,
+            "negative": 1,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 33.33,
+            "negative": 33.33,
+            "neutral": 33.33
+        },
+        "final_sentiment": "positive"
+    },
     "usability": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "price": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 5
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "features": {
         "counts": {
             "positive": 0,
             "negative": 0,
@@ -90,7 +116,124 @@
         },
         "final_sentiment": "neutral"
     },
-    "price": {
+    "brand": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "mileage": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 50.0,
+            "negative": 0.0,
+            "neutral": 50.0
+        },
+        "final_sentiment": "positive"
+    },
+    "trust": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "maintenance": {
+        "counts": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 100.0,
+            "neutral": 0.0
+        },
+        "final_sentiment": "negative"
+    },
+    "charging": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 50.0,
+            "negative": 0.0,
+            "neutral": 50.0
+        },
+        "final_sentiment": "positive"
+    },
+    "speed": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "space": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "percentage": {
+            "positive": 100.0,
+            "negative": 0.0,
+            "neutral": 0.0
+        },
+        "final_sentiment": "positive"
+    },
+    "eco-friendliness": {
+        "counts": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1
+        },
+        "percentage": {
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 100.0
+        },
+        "final_sentiment": "neutral"
+    },
+    "range": {
+        "counts": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "percentage": {
+            "positive": 100.0,
+            "negative": 0.0,
+            "neutral": 0.0
+        },
+        "final_sentiment": "positive"
+    },
+    "pickup": {
         "counts": {
             "positive": 0,
             "negative": 0,

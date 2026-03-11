@@ -3,13 +3,63 @@
         "review_id": 1,
         "aspect_sentiment": {
             "performance": "neutral",
-            "battery": "neutral",
-            "safety": "neutral",
+            "battery": "positive",
+            "safety": "positive",
             "appearance": "neutral",
-            "comfort": "neutral",
+            "comfort": "positive",
             "service": "positive",
             "usability": "neutral",
             "price": "neutral"
+        }
+    },
+    {
+        "review_id": 2,
+        "aspect_sentiment": {
+            "performance": "neutral",
+            "price": "neutral",
+            "appearance": "neutral",
+            "comfort": "neutral",
+            "features": "neutral",
+            "brand": "neutral",
+            "usability": "neutral"
+        }
+    },
+    {
+        "review_id": 3,
+        "aspect_sentiment": {
+            "performance": "neutral",
+            "mileage": "positive",
+            "service": "neutral",
+            "trust": "neutral",
+            "brand": "neutral",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 4,
+        "aspect_sentiment": {
+            "performance": "positive",
+            "mileage": "neutral",
+            "service": "negative",
+            "maintenance": "negative",
+            "charging": "neutral",
+            "price": "neutral",
+            "speed": "neutral",
+            "space": "positive",
+            "comfort": "neutral",
+            "eco-friendliness": "neutral",
+            "brand": "neutral"
+        }
+    },
+    {
+        "review_id": 5,
+        "aspect_sentiment": {
+            "performance": "neutral",
+            "charging": "positive",
+            "range": "positive",
+            "pickup": "neutral",
+            "price": "neutral",
+            "usability": "neutral"
         }
     }
 ]

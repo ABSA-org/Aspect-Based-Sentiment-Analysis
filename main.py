@@ -1,5 +1,6 @@
 import json
 from collections import defaultdict
+from part3_sentiment_analysis.sentiment_analysis import run_sentiment_analysis
 
 #prep,aspect_identification,sentiment_analysis
 
@@ -7,6 +8,8 @@ from collections import defaultdict
 
 
 
+#sentiment_analysis
+run_sentiment_analysis()
 
 #aggregation
 with open("outputs/final_aspect_sentiment.json","r") as f:
