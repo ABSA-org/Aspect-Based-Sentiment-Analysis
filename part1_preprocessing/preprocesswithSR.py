@@ -26,10 +26,10 @@ lemmatizer = WordNetLemmatizer()
 def preprocess(text):
 
     text = text.lower()
-    text = re.sub(r"[^\w\s]", "", text)
+    text = re.sub(r"[^\w\s]", " ", text)
 
     tokens = word_tokenize(text)
-    tokens = [t for t in tokens if t not in stop_words]
+    tokens = [t for t in tokens if t not in stop_words and len(t) > 2]
     tokens = [lemmatizer.lemmatize(t) for t in tokens]
 
     return tokens
