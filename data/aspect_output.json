@@ -24,6 +24,7 @@
     "review_id": 3,
     "aspects": [
       "brand",
+      "charging",
       "range"
     ]
   },
@@ -95,6 +96,7 @@
     "review_id": 13,
     "aspects": [
       "battery",
+      "charging",
       "performance"
     ]
   },
@@ -948,6 +950,7 @@
   {
     "review_id": 159,
     "aspects": [
+      "charging",
       "comfort"
     ]
   },
@@ -990,7 +993,9 @@
   },
   {
     "review_id": 165,
-    "aspects": []
+    "aspects": [
+      "charging"
+    ]
   },
   {
     "review_id": 166,
@@ -1139,6 +1144,7 @@
   {
     "review_id": 185,
     "aspects": [
+      "charging",
       "maintenance",
       "price"
     ]

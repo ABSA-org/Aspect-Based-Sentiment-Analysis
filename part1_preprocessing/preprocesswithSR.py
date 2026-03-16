@@ -5,11 +5,17 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
+stop_words = None
+lemmatizer = None
+
 def setup_nltk():
     resources = {
         "punkt": "tokenizers/punkt",
+        "punkt_tab": "tokenizers/punkt_tab",
         "stopwords": "corpora/stopwords",
-        "wordnet": "corpora/wordnet"
+        "wordnet": "corpora/wordnet",
+        "averaged_perceptron_tagger": "taggers/averaged_perceptron_tagger",
+        "averaged_perceptron_tagger_eng": "taggers/averaged_perceptron_tagger_eng"
     }
 
     for resource, path in resources.items():
@@ -18,9 +24,11 @@ def setup_nltk():
         except LookupError:
             nltk.download(resource, quiet=True)
 
+    global stop_words, lemmatizer
 
-stop_words = set(stopwords.words("english"))
-lemmatizer = WordNetLemmatizer()
+    stop_words = set(stopwords.words("english"))
+    lemmatizer = WordNetLemmatizer()
+
 
 
 def preprocess(text):
@@ -35,10 +43,10 @@ def preprocess(text):
     return tokens
 
 
-def preprocess_reviews():
+def preprocess_reviews_withSR():
 
-    input_path = r"C:\Users\KIIT0001\Aspect-Based-Sentiment-Analysis\data\raw_reviews.json"
-    output_path = r"C:\Users\KIIT0001\Aspect-Based-Sentiment-Analysis\data\preprocessed_output_withSR.json"
+    input_path = "data/raw_reviews.json"
+    output_path = "data/preprocessed_output_withSR.json"
 
     with open(input_path, "r") as f:
         reviews = json.load(f)
@@ -58,8 +66,4 @@ def preprocess_reviews():
     with open(output_path, "w") as f:
         json.dump(preprocessed_data, f, indent=2)
 
-    print("Preprocessing completed.")
-    print("Saved at:", output_path)
-
-setup_nltk()
-preprocess_reviews()
+    print("Preprocessing with SR completed.")

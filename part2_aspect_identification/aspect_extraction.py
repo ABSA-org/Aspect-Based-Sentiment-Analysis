@@ -1,12 +1,6 @@
 import json
 import nltk
 
-def setup_nltk():
-    try:
-        nltk.data.find("taggers/averaged_perceptron_tagger")
-    except LookupError:
-        nltk.download("averaged_perceptron_tagger", quiet=True)
-
 
 aspect_mapping = {
 
@@ -32,13 +26,14 @@ aspect_mapping = {
     "station": "charging",
     "infrastructure": "charging",
     "network": "charging",
+    "time": "charging",
+    "hours": "charging",
 
     "comfort": "comfort",
     "seat": "comfort",
     "seats": "comfort",
     "ride": "comfort",
     "suspension": "comfort",
-    "cabin": "comfort",
     "legroom": "comfort",
     "headroom": "comfort",
 
@@ -106,9 +101,9 @@ aspect_mapping = {
 }
 
 
-def extract_aspects(input_path, output_path):
+def extract_aspects():
 
-    with open(input_path, "r") as f:
+    with open("data/preprocessed_output_withSR.json", "r") as f:
         data = json.load(f)
 
     aspect_output = []
@@ -132,18 +127,7 @@ def extract_aspects(input_path, output_path):
             "aspects": aspects
         })
 
-    with open(output_path, "w") as f:
+    with open("data/aspect_output.json", "w") as f:
         json.dump(aspect_output, f, indent=2)
 
     print("Aspect extraction completed.")
-    print("Saved at:", output_path)
-
-
-if __name__ == "__main__":
-
-    setup_nltk()
-
-    input_file = r"C:\Users\KIIT0001\Aspect-Based-Sentiment-Analysis\data\preprocessed_output_withSR.json"
-    output_file = r"C:\Users\KIIT0001\Aspect-Based-Sentiment-Analysis\data\aspect_output.json"
-
-    extract_aspects(input_file, output_file)

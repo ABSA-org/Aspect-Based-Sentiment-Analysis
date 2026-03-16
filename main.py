@@ -1,12 +1,20 @@
 import json
 from collections import defaultdict
+
+
+from part1_preprocessing.preprocesswithSR import setup_nltk,preprocess_reviews_withSR
+from part1_preprocessing.preprocesswithoutSR import preprocess_reviews_withoutSR
+from part2_aspect_identification.aspect_extraction import extract_aspects
 from part3_sentiment_analysis.sentiment_analysis import run_sentiment_analysis
 
-#prep,aspect_identification,sentiment_analysis
 
+#preprocessing with and without stopword removal
+setup_nltk()
+preprocess_reviews_withSR()
+preprocess_reviews_withoutSR()
 
-
-
+#aspect_identification
+extract_aspects()
 
 #sentiment_analysis
 run_sentiment_analysis()

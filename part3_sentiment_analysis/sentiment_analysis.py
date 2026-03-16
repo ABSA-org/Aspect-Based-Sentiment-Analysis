@@ -2,11 +2,52 @@ import json
 import spacy
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+ASPECT_WORDS = {
+
+    "performance": ["power","pickup","acceleration","torque","speed","performance","driving","motor"],
+
+    "battery": ["battery","battery-life","backup"],
+
+    "range": ["range","distance","mileage","km"],
+
+    "charging": ["charging","charge","charger","station","infrastructure","network"],
+
+    "comfort": ["comfort","seat","seats","ride","suspension","legroom","headroom"],
+
+    "space": ["space","boot","storage"],
+
+    "safety": ["safety","brake","braking","airbag","build","structure"],
+
+    "appearance": ["design","look","style","styling","exterior","dashboard"],
+
+    "interior": ["interior","material","quality","cabin"],
+
+    "features": ["feature","features","system","infotainment","display","screen","cluster","technology","mode","modes"],
+
+    "price": ["price","cost","value","expensive","affordable"],
+
+    "maintenance": ["maintenance"],
+
+    "service": ["service","servicing"],
+
+    "efficiency": ["efficiency","economy","running","expense"],
+
+    "handling": ["handling","steering","control","stability"],
+
+    "brand": ["tata","nexon"],
+
+    "eco-friendliness": ["eco","electric","ev","emission"]
+}
+
+
 def dependency_parser_sentiment(doc, aspect, sia, intensifiers):
     parser_score = 0
+    aspect_words = ASPECT_WORDS.get(aspect, [])
+
     for token in doc:
 
-        if token.text.lower() == aspect.lower():
+        if token.text.lower() in aspect_words:
 
             for child in token.children:
 
@@ -45,10 +86,11 @@ def dependency_parser_sentiment(doc, aspect, sia, intensifiers):
 def context_window_sentiment(tokens, aspect, sia, window_size=3):
 
     window_score = 0
+    aspect_words = ASPECT_WORDS.get(aspect, [])
 
     for i, word in enumerate(tokens):
 
-        if word.lower() == aspect.lower():
+        if word.lower() in aspect_words:
 
             start = max(0, i - window_size)
             end = min(len(tokens), i + window_size + 1)
@@ -82,10 +124,10 @@ def run_sentiment_analysis():
         "somewhat": 0.7
     }
 
-    with open("test_data/test_preprocessed_output_withoutSR.json", "r") as f:
+    with open("data/preprocessed_output_withoutSR.json", "r") as f:
         reviews = json.load(f)
 
-    with open("test_data/test_aspect_output.json", "r") as f:
+    with open("data/aspect_output.json", "r") as f:
         aspects_data = json.load(f)
 
     final_results = []
@@ -93,7 +135,7 @@ def run_sentiment_analysis():
     for review_obj in reviews:
 
         review_id = review_obj["review_id"]
-        tokens = review_obj["preprocessed_review"]
+        tokens = review_obj["tokens"]
 
         aspect_list = []
         for asp in aspects_data:
@@ -114,9 +156,9 @@ def run_sentiment_analysis():
             # Hybrid score
             final_score = parser_score + 0.5 * window_score
 
-            if final_score > 0:
+            if final_score > 0.1:
                 sentiment = "positive"
-            elif final_score < 0:
+            elif final_score < -0.1:
                 sentiment = "negative"
             else:
                 sentiment = "neutral"

@@ -2,64 +2,1260 @@
     {
         "review_id": 1,
         "aspect_sentiment": {
-            "performance": "neutral",
+            "appearance": "positive",
             "battery": "positive",
-            "safety": "positive",
-            "appearance": "neutral",
+            "brand": "neutral",
             "comfort": "positive",
-            "service": "positive",
-            "usability": "neutral",
-            "price": "neutral"
+            "maintenance": "negative",
+            "performance": "positive",
+            "price": "neutral",
+            "safety": "positive",
+            "service": "positive"
         }
     },
     {
         "review_id": 2,
         "aspect_sentiment": {
-            "performance": "neutral",
-            "price": "neutral",
             "appearance": "neutral",
-            "comfort": "neutral",
-            "features": "neutral",
-            "brand": "neutral",
-            "usability": "neutral"
+            "features": "positive"
         }
     },
     {
         "review_id": 3,
         "aspect_sentiment": {
-            "performance": "neutral",
-            "mileage": "positive",
-            "service": "neutral",
-            "trust": "neutral",
-            "brand": "neutral",
-            "price": "neutral"
+            "brand": "negative",
+            "charging": "neutral",
+            "range": "neutral"
         }
     },
     {
         "review_id": 4,
         "aspect_sentiment": {
-            "performance": "positive",
-            "mileage": "neutral",
-            "service": "negative",
-            "maintenance": "negative",
+            "brand": "positive",
             "charging": "neutral",
+            "maintenance": "negative",
+            "performance": "positive",
             "price": "neutral",
-            "speed": "neutral",
-            "space": "positive",
-            "comfort": "neutral",
-            "eco-friendliness": "neutral",
-            "brand": "neutral"
+            "range": "negative",
+            "service": "negative",
+            "space": "positive"
         }
     },
     {
         "review_id": 5,
         "aspect_sentiment": {
-            "performance": "neutral",
-            "charging": "positive",
-            "range": "positive",
-            "pickup": "neutral",
+            "performance": "positive",
+            "price": "positive",
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 6,
+        "aspect_sentiment": {
+            "charging": "positive"
+        }
+    },
+    {
+        "review_id": 7,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 8,
+        "aspect_sentiment": {
+            "charging": "positive"
+        }
+    },
+    {
+        "review_id": 9,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 10,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 11,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 12,
+        "aspect_sentiment": {
+            "space": "neutral"
+        }
+    },
+    {
+        "review_id": 13,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "charging": "neutral",
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 14,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 15,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 16,
+        "aspect_sentiment": {
+            "battery": "neutral"
+        }
+    },
+    {
+        "review_id": 17,
+        "aspect_sentiment": {
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 18,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "interior": "positive",
+            "space": "positive"
+        }
+    },
+    {
+        "review_id": 19,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 20,
+        "aspect_sentiment": {
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 21,
+        "aspect_sentiment": {
+            "space": "neutral"
+        }
+    },
+    {
+        "review_id": 22,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 23,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 24,
+        "aspect_sentiment": {
+            "maintenance": "negative",
+            "price": "negative"
+        }
+    },
+    {
+        "review_id": 25,
+        "aspect_sentiment": {
+            "charging": "positive"
+        }
+    },
+    {
+        "review_id": 26,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "performance": "positive",
+            "service": "neutral"
+        }
+    },
+    {
+        "review_id": 27,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 28,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 29,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 30,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 31,
+        "aspect_sentiment": {
+            "comfort": "neutral",
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 32,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 33,
+        "aspect_sentiment": {
+            "features": "positive",
+            "interior": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 34,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 35,
+        "aspect_sentiment": {
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 36,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 37,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 38,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 39,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 40,
+        "aspect_sentiment": {
+            "efficiency": "positive",
+            "performance": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 41,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 42,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 43,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 44,
+        "aspect_sentiment": {
+            "features": "positive",
+            "handling": "positive",
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 45,
+        "aspect_sentiment": {
+            "features": "positive",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 46,
+        "aspect_sentiment": {
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 47,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 48,
+        "aspect_sentiment": {
+            "space": "neutral"
+        }
+    },
+    {
+        "review_id": 49,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 50,
+        "aspect_sentiment": {
+            "charging": "positive"
+        }
+    },
+    {
+        "review_id": 51,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 52,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 53,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 54,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 55,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 56,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 57,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 58,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 59,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 60,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 61,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "features": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 62,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 63,
+        "aspect_sentiment": {
+            "efficiency": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 64,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 65,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 66,
+        "aspect_sentiment": {
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 67,
+        "aspect_sentiment": {
+            "efficiency": "neutral"
+        }
+    },
+    {
+        "review_id": 68,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 69,
+        "aspect_sentiment": {
+            "handling": "neutral"
+        }
+    },
+    {
+        "review_id": 70,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 71,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 72,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 73,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 74,
+        "aspect_sentiment": {
+            "eco-friendliness": "neutral",
+            "price": "positive"
+        }
+    },
+    {
+        "review_id": 75,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 76,
+        "aspect_sentiment": {
+            "features": "neutral",
             "price": "neutral",
-            "usability": "neutral"
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 77,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 78,
+        "aspect_sentiment": {
+            "efficiency": "neutral",
+            "price": "negative"
+        }
+    },
+    {
+        "review_id": 79,
+        "aspect_sentiment": {
+            "handling": "positive"
+        }
+    },
+    {
+        "review_id": 80,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 81,
+        "aspect_sentiment": {
+            "comfort": "neutral"
+        }
+    },
+    {
+        "review_id": 82,
+        "aspect_sentiment": {
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 83,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 84,
+        "aspect_sentiment": {
+            "features": "neutral"
+        }
+    },
+    {
+        "review_id": 85,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 86,
+        "aspect_sentiment": {
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 87,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 88,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 89,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 90,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 91,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 92,
+        "aspect_sentiment": {
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 93,
+        "aspect_sentiment": {
+            "interior": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 94,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "efficiency": "positive"
+        }
+    },
+    {
+        "review_id": 95,
+        "aspect_sentiment": {
+            "features": "neutral"
+        }
+    },
+    {
+        "review_id": 96,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 97,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 98,
+        "aspect_sentiment": {
+            "price": "negative"
+        }
+    },
+    {
+        "review_id": 99,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 100,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 101,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 102,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 103,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 104,
+        "aspect_sentiment": {
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 105,
+        "aspect_sentiment": {
+            "interior": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 106,
+        "aspect_sentiment": {
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 107,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "eco-friendliness": "neutral"
+        }
+    },
+    {
+        "review_id": 108,
+        "aspect_sentiment": {
+            "price": "negative"
+        }
+    },
+    {
+        "review_id": 109,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 110,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 111,
+        "aspect_sentiment": {
+            "charging": "positive"
+        }
+    },
+    {
+        "review_id": 112,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 113,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 114,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 115,
+        "aspect_sentiment": {
+            "features": "positive",
+            "range": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 116,
+        "aspect_sentiment": {
+            "space": "neutral"
+        }
+    },
+    {
+        "review_id": 117,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 118,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 119,
+        "aspect_sentiment": {
+            "efficiency": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 120,
+        "aspect_sentiment": {
+            "efficiency": "neutral"
+        }
+    },
+    {
+        "review_id": 121,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 122,
+        "aspect_sentiment": {
+            "space": "neutral"
+        }
+    },
+    {
+        "review_id": 123,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 124,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 125,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 126,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 127,
+        "aspect_sentiment": {
+            "eco-friendliness": "neutral"
+        }
+    },
+    {
+        "review_id": 128,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 129,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 130,
+        "aspect_sentiment": {
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 131,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 132,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 133,
+        "aspect_sentiment": {
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 134,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 135,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 136,
+        "aspect_sentiment": {
+            "handling": "positive",
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 137,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 138,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 139,
+        "aspect_sentiment": {
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 140,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 141,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 142,
+        "aspect_sentiment": {
+            "price": "positive"
+        }
+    },
+    {
+        "review_id": 143,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "efficiency": "negative",
+            "price": "negative"
+        }
+    },
+    {
+        "review_id": 144,
+        "aspect_sentiment": {
+            "appearance": "positive"
+        }
+    },
+    {
+        "review_id": 145,
+        "aspect_sentiment": {
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 146,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 147,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 148,
+        "aspect_sentiment": {
+            "features": "neutral"
+        }
+    },
+    {
+        "review_id": 149,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 150,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 151,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "comfort": "positive",
+            "performance": "neutral",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 152,
+        "aspect_sentiment": {
+            "features": "negative",
+            "interior": "neutral",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 153,
+        "aspect_sentiment": {
+            "charging": "neutral",
+            "performance": "positive",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 154,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 155,
+        "aspect_sentiment": {
+            "appearance": "neutral",
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 156,
+        "aspect_sentiment": {
+            "eco-friendliness": "neutral",
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 157,
+        "aspect_sentiment": {
+            "battery": "neutral",
+            "charging": "negative"
+        }
+    },
+    {
+        "review_id": 158,
+        "aspect_sentiment": {
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 159,
+        "aspect_sentiment": {
+            "charging": "neutral",
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 160,
+        "aspect_sentiment": {
+            "appearance": "neutral",
+            "features": "positive"
+        }
+    },
+    {
+        "review_id": 161,
+        "aspect_sentiment": {
+            "interior": "positive",
+            "performance": "neutral",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 162,
+        "aspect_sentiment": {
+            "interior": "positive",
+            "space": "positive"
+        }
+    },
+    {
+        "review_id": 163,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 164,
+        "aspect_sentiment": {
+            "comfort": "neutral",
+            "features": "neutral",
+            "interior": "neutral"
+        }
+    },
+    {
+        "review_id": 165,
+        "aspect_sentiment": {
+            "charging": "neutral"
+        }
+    },
+    {
+        "review_id": 166,
+        "aspect_sentiment": {
+            "appearance": "neutral",
+            "features": "neutral"
+        }
+    },
+    {
+        "review_id": 167,
+        "aspect_sentiment": {
+            "maintenance": "negative",
+            "price": "negative",
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 168,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "range": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 169,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 170,
+        "aspect_sentiment": {
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 171,
+        "aspect_sentiment": {
+            "charging": "neutral",
+            "interior": "positive",
+            "performance": "positive",
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 172,
+        "aspect_sentiment": {
+            "brand": "neutral",
+            "features": "neutral"
+        }
+    },
+    {
+        "review_id": 173,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "charging": "positive",
+            "comfort": "positive",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 174,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "performance": "positive",
+            "range": "positive",
+            "space": "positive"
+        }
+    },
+    {
+        "review_id": 175,
+        "aspect_sentiment": {
+            "appearance": "neutral",
+            "battery": "neutral",
+            "comfort": "positive",
+            "interior": "positive",
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 176,
+        "aspect_sentiment": {
+            "charging": "negative",
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 177,
+        "aspect_sentiment": {
+            "features": "positive",
+            "interior": "positive",
+            "performance": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 178,
+        "aspect_sentiment": {
+            "charging": "neutral"
+        }
+    },
+    {
+        "review_id": 179,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 180,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "features": "positive",
+            "interior": "neutral",
+            "performance": "positive"
+        }
+    },
+    {
+        "review_id": 181,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 182,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 183,
+        "aspect_sentiment": {
+            "appearance": "neutral"
+        }
+    },
+    {
+        "review_id": 184,
+        "aspect_sentiment": {
+            "performance": "negative",
+            "range": "negative"
+        }
+    },
+    {
+        "review_id": 185,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "maintenance": "positive",
+            "price": "neutral"
+        }
+    },
+    {
+        "review_id": 186,
+        "aspect_sentiment": {
+            "charging": "negative",
+            "comfort": "positive"
+        }
+    },
+    {
+        "review_id": 187,
+        "aspect_sentiment": {
+            "appearance": "neutral",
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 188,
+        "aspect_sentiment": {
+            "features": "positive",
+            "interior": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 189,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "range": "positive"
+        }
+    },
+    {
+        "review_id": 190,
+        "aspect_sentiment": {
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 191,
+        "aspect_sentiment": {
+            "charging": "negative",
+            "comfort": "positive",
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 192,
+        "aspect_sentiment": {
+            "charging": "neutral",
+            "interior": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 193,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "battery": "neutral"
+        }
+    },
+    {
+        "review_id": 194,
+        "aspect_sentiment": {
+            "comfort": "neutral",
+            "interior": "positive"
+        }
+    },
+    {
+        "review_id": 195,
+        "aspect_sentiment": {
+            "features": "negative",
+            "performance": "neutral"
+        }
+    },
+    {
+        "review_id": 196,
+        "aspect_sentiment": {
+            "battery": "positive",
+            "performance": "positive",
+            "price": "negative",
+            "range": "neutral"
+        }
+    },
+    {
+        "review_id": 197,
+        "aspect_sentiment": {
+            "appearance": "positive",
+            "interior": "positive",
+            "space": "positive"
+        }
+    },
+    {
+        "review_id": 198,
+        "aspect_sentiment": {
+            "charging": "positive",
+            "features": "positive",
+            "safety": "positive"
+        }
+    },
+    {
+        "review_id": 199,
+        "aspect_sentiment": {}
+    },
+    {
+        "review_id": 200,
+        "aspect_sentiment": {
+            "comfort": "positive",
+            "features": "neutral",
+            "interior": "positive"
         }
     }
 ]
