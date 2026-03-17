@@ -998,6 +998,506 @@
   "review_id": 200,
   "vehicle_model": "Tata Nexon EV",
   "review_text": "Overall the experience has been positive so far. Comfort level and ride quality are quite good. A faster charging system would make this car even better."
+  },
+  {
+    "review_id": 201,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I bought this car with high expectations but the real world range is much lower than promised. In city traffic it is manageable, but on highways the battery drains faster than expected. Service center support has also been disappointing."
+  },
+  {
+    "review_id": 202,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car looks stylish from outside but ownership experience has been average. Charging takes too long at home and public chargers are not always available. It feels stressful to plan long trips."
+  },
+  {
+    "review_id": 203,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Ride quality is decent and the cabin stays quiet, but software glitches spoil the overall experience. The screen freezes at times and small warning messages keep appearing randomly."
+  },
+  {
+    "review_id": 204,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I like the pickup and smooth driving feel, but battery performance drops too much with AC on. For the price, I expected more consistency and better charging speed."
+  },
+  {
+    "review_id": 205,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "This EV is fine for daily office travel, but I would not recommend it for frequent highway driving. Range anxiety is real and charging stops take longer than they should."
+  },
+  {
+    "review_id": 206,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Build quality feels strong but the interior does not match the price tag. Some panels feel basic and the infotainment response is slower than expected."
+  },
+  {
+    "review_id": 207,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Driving is smooth and silent, which is the best part of this car. Still, the charging infrastructure around my area is poor and that makes ownership difficult."
+  },
+  {
+    "review_id": 208,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car is comfortable enough for city rides but the actual range keeps disappointing me. Every trip needs careful planning and that removes the convenience of having a personal vehicle."
+  },
+  {
+    "review_id": 209,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The suspension is good and road presence is nice, but the software and connected features need serious improvement. Sometimes the system feels outdated."
+  },
+  {
+    "review_id": 210,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Good safety and stable handling, but charging time is still a major issue. Overnight home charging works, yet quick top ups during trips are not as practical as I hoped."
+  },
+  {
+    "review_id": 211,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I regret buying it mainly because of poor service response. The car itself is average, but after sales support makes the whole experience more frustrating."
+  },
+  {
+    "review_id": 212,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The EV drive feels modern and smooth, but there are too many compromises in range and charging. It saves fuel cost but adds stress in other ways."
+  },
+  {
+    "review_id": 213,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Looks attractive and drives well in the city, but long distance usability is weak. Public charging is inconsistent and the car takes time to recharge."
+  },
+  {
+    "review_id": 214,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Battery backup is okay for short runs, but not reliable enough for flexible travel. I find myself avoiding trips because I do not trust the remaining range."
+  },
+  {
+    "review_id": 215,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The instant torque is fun and the car feels easy to handle. Still, quality control could have been better because small issues started appearing too early."
+  },
+  {
+    "review_id": 216,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I expected this car to be more refined. Instead, I got a decent EV with average interiors, average range, and service that does not always solve the problem properly."
+  },
+  {
+    "review_id": 217,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "For city commuting it works fine, but if someone is buying it thinking it will easily replace a petrol car in all conditions, that is not true in my experience."
+  },
+  {
+    "review_id": 218,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Very silent cabin and smooth acceleration, but the battery percentage falls faster than expected when the car is fully loaded. That has been disappointing."
+  },
+  {
+    "review_id": 219,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The design is good and the seats are reasonably comfortable. However, charging network support is still too weak to make ownership completely stress free."
+  },
+  {
+    "review_id": 220,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "This car is not bad, but it is also not as practical as the marketing suggests. Range and charging together remain the biggest drawbacks."
+  },
+  {
+    "review_id": 221,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Initially I was excited, but over time the limited range and slow charging became irritating. I now use it only for short daily travel."
+  },
+  {
+    "review_id": 222,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car feels planted on the road and safety is reassuring. But the real ownership experience is affected by software bugs and service delays."
+  },
+  {
+    "review_id": 223,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I appreciate the low running cost, yet that alone does not make up for the charging inconvenience. Owning this EV requires patience."
+  },
+  {
+    "review_id": 224,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The battery range is acceptable only if your routine is fixed and predictable. For people with sudden long travel needs, this car can become restrictive."
+  },
+  {
+    "review_id": 225,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Comfort is decent and cabin insulation is nice, but the infotainment lag keeps annoying me. For a modern EV, the user interface should have been much better."
+  },
+  {
+    "review_id": 226,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I found the car overpriced for what it offers. Good safety is there, but range, charging, and software experience still need a lot of improvement."
+  },
+  {
+    "review_id": 227,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The best part is the silent drive, but the worst part is planning every charge carefully. That kind of dependence reduces spontaneity in travel."
+  },
+  {
+    "review_id": 228,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The steering is light and city driving is easy, but actual battery efficiency changes too much with weather and AC usage. That unpredictability is frustrating."
+  },
+  {
+    "review_id": 229,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Home charging is convenient, but public charging experience has been unreliable. Some stations do not work properly and others are too crowded."
+  },
+  {
+    "review_id": 230,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "It is a decent first EV but not a great one. Tata needs to improve consistency in software, service, and real world range performance."
+  },
+  {
+    "review_id": 231,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car feels sturdy and safe, which I liked from day one. Unfortunately the battery range does not inspire enough confidence for longer drives."
+  },
+  {
+    "review_id": 232,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Even though the ride is smooth, I keep facing small electronic issues. Nothing major individually, but together they make the car feel unfinished."
+  },
+  {
+    "review_id": 233,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "This EV saves money on fuel, but the ownership experience comes with too many compromises. Charging wait time and inconsistent range are the biggest issues."
+  },
+  {
+    "review_id": 234,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Performance is okay, but I expected better refinement in the cabin and electronics. It feels more practical than premium."
+  },
+  {
+    "review_id": 235,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car is easy to drive in traffic and has decent ground clearance. However, boot space and battery confidence both feel limited for a family car."
+  },
+  {
+    "review_id": 236,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Good pickup and silent operation, but after sales experience has not been satisfying. Service visits take time and answers are often unclear."
+  },
+  {
+    "review_id": 237,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Range claims look good on paper, but everyday usage tells a different story. I always keep extra margin because I do not fully trust the estimate."
+  },
+  {
+    "review_id": 238,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The exterior looks bold, but the inside feels average for this price. Features are there, yet overall polish is missing."
+  },
+  {
+    "review_id": 239,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I like the idea of electric driving, but this car still feels like a compromise product. It is practical only in limited use cases."
+  },
+  {
+    "review_id": 240,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Not a terrible car, but definitely not worry free. Range anxiety, charger planning, and software irritations keep reminding me that this EV is still maturing."
+  },
+  {
+    "review_id": 241,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The seats are comfortable and ride quality is fine, but charging speed should have been better. Waiting this long for a full charge feels outdated."
+  },
+  {
+    "review_id": 242,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Daily commuting is easy and cheap, yet the car loses practicality when used outside the city. The lack of dependable public chargers is the main problem."
+  },
+  {
+    "review_id": 243,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car handles well and feels safe, but software bugs and sensor warnings have made me visit the service center more than expected."
+  },
+  {
+    "review_id": 244,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "It drives nicely in Eco mode for urban use. Still, I am not impressed by the overall value because the charging inconvenience is too big."
+  },
+  {
+    "review_id": 245,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The low running cost attracted me, but the actual ownership experience has been mixed. Battery drain under heavy use is worse than I thought."
+  },
+  {
+    "review_id": 246,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Road presence is strong and the car feels safe. Unfortunately the real advantage gets reduced by the time spent searching and waiting for chargers."
+  },
+  {
+    "review_id": 247,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "This car works best as a second vehicle for city usage. As a primary all purpose car, it still feels restrictive."
+  },
+  {
+    "review_id": 248,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Cabin comfort is acceptable and acceleration is quick, but too many small glitches make the ownership experience less premium than expected."
+  },
+  {
+    "review_id": 249,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I expected better battery confidence from a car in this segment. The remaining range estimate changes too quickly and feels unreliable."
+  },
+  {
+    "review_id": 250,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The smooth silent nature of EV driving is enjoyable. But overall this vehicle still needs improvement in charging ecosystem and software refinement."
+  },
+  {
+    "review_id": 251,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car is very smooth to drive and city performance is excellent. Pickup is quick and the silent cabin makes everyday commuting more comfortable."
+  },
+  {
+    "review_id": 252,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I really like the strong build quality and safe feel of this vehicle. It gives confidence on highways and handles rough roads reasonably well."
+  },
+  {
+    "review_id": 253,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Charging at home overnight has made my routine very easy. For office travel and local use, this car has been a practical and economical option."
+  },
+  {
+    "review_id": 254,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The instant torque is one of the best things about this EV. Overtaking in city traffic feels effortless and smooth."
+  },
+  {
+    "review_id": 255,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Ride comfort is good and the suspension handles bad roads better than expected. It feels like a nice family EV for regular use."
+  },
+  {
+    "review_id": 256,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The exterior design looks modern and sporty. It has a strong road presence and gets noticed easily."
+  },
+  {
+    "review_id": 257,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I am happy with the low running cost and smooth drive quality. It has reduced my monthly travel expense significantly."
+  },
+  {
+    "review_id": 258,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car feels stable on highways and comfortable in daily traffic. Overall the driving experience is pleasant and easy."
+  },
+  {
+    "review_id": 259,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Battery performance has been reliable for my daily commute. I charge once at home and use it without much worry for city travel."
+  },
+  {
+    "review_id": 260,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The cabin remains quiet and peaceful even during fast acceleration. That makes long drives less tiring."
+  },
+  {
+    "review_id": 261,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I like the modern dashboard layout and the ease of driving an automatic EV. It feels convenient and beginner friendly."
+  },
+  {
+    "review_id": 262,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "For city use, this has been one of the best cars I have driven. Smooth response, no gear shifts, and very low noise."
+  },
+  {
+    "review_id": 263,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The seats are comfortable and cabin space is enough for a small family. Daily usage has been quite satisfying."
+  },
+  {
+    "review_id": 264,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Good balance between comfort, performance, and efficiency. It is a sensible EV option in this price range."
+  },
+  {
+    "review_id": 265,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Steering is light and visibility is good, which makes city driving very easy. It is practical for office and market runs."
+  },
+  {
+    "review_id": 266,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car feels well planted at normal highway speeds and braking is reassuring. Safety and confidence are strong points."
+  },
+  {
+    "review_id": 267,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Very little vibration and no engine noise make this car enjoyable to drive. It feels modern compared to traditional fuel cars."
+  },
+  {
+    "review_id": 268,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The regenerative braking is useful and helps improve efficiency in traffic. Once you get used to it, driving becomes very convenient."
+  },
+  {
+    "review_id": 269,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The strong body and comfortable ride quality make it a reassuring choice. I feel good using it for my daily family travel."
+  },
+  {
+    "review_id": 270,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Overall it is a nice EV for urban use with low running cost and good comfort. It fits well into a fixed daily routine."
+  },
+  {
+    "review_id": 271,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car started well for me, but after a few months I noticed the range is not consistent. On some days it performs fine and on others the battery drains much faster."
+  },
+  {
+    "review_id": 272,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I like the smooth acceleration and silent cabin, but the infotainment system feels unreliable. Sometimes it hangs and restarts without reason."
+  },
+  {
+    "review_id": 273,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Good for city commute, but real world practicality is still limited. Long distance travel needs too much planning and patience."
+  },
+  {
+    "review_id": 274,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The design is attractive and the car feels safe, but charging time is simply too much. If you miss one charging cycle, your whole schedule gets affected."
+  },
+  {
+    "review_id": 275,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "This EV is comfortable to drive, but I do not think it is worth the full price. There are too many compromises in battery range and software quality."
+  },
+  {
+    "review_id": 276,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The suspension works well on rough roads and ground clearance is helpful. Still, the charger network near me is weak, which makes the car less useful than expected."
+  },
+  {
+    "review_id": 277,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The driving experience is nice, but I keep getting worried about range whenever battery drops below half. That constant concern takes away from the enjoyment."
+  },
+  {
+    "review_id": 278,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Cabin comfort is good and the car feels stable, but interior fit and finish could be much better. Some parts feel average for this price."
+  },
+  {
+    "review_id": 279,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I expected the service center to be more helpful with EV related questions. Instead, most answers were vague and the issues were not clearly resolved."
+  },
+  {
+    "review_id": 280,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "There are things to like, such as instant torque and low running cost, but the overall experience still feels unfinished because of glitches and charging limitations."
+  },
+  {
+    "review_id": 281,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car looks premium from outside but daily ownership is not that smooth. Range drops noticeably with AC and loaded passengers."
+  },
+  {
+    "review_id": 282,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I use it mainly in the city and it performs okay, but it has not fully replaced the convenience of my previous petrol car. Flexibility is still missing."
+  },
+  {
+    "review_id": 283,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The vehicle is safe and easy to drive, but the charging experience has been the weak point. Fast chargers are either busy or too far away."
+  },
+  {
+    "review_id": 284,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Performance is decent but not exciting enough to justify the compromises. It feels more like an acceptable EV than a truly satisfying one."
+  },
+  {
+    "review_id": 285,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The best part is city drivability, but the worst part is planning around battery percentage all the time. I did not expect to think this much before every trip."
+  },
+  {
+    "review_id": 286,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Home charging is useful, but if you live in an area without strong public charging support, this car becomes restrictive. That has been my biggest lesson."
+  },
+  {
+    "review_id": 287,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The cabin is quiet and suspension is comfortable, though the software side still needs polish. Alerts and interface lag reduce the sense of quality."
+  },
+  {
+    "review_id": 288,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I wanted to love this car because the concept is great. But in reality, range shortfall and inconsistent support have made the experience only average."
+  },
+  {
+    "review_id": 289,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Battery efficiency is fine only under ideal conditions. Once weather, traffic, or AC usage changes, the range becomes less dependable."
+  },
+  {
+    "review_id": 290,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Overall the car is manageable for short trips, but not confidence inspiring for wider use. There is still a gap between brochure expectations and actual ownership."
+  },
+  {
+    "review_id": 291,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The body feels solid and road manners are decent, but charging speed remains too slow for comfort. I expected faster turnaround during travel."
+  },
+  {
+    "review_id": 292,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "It is smooth, safe, and economical in some ways, but the tradeoff comes in freedom of movement. A fuel car still feels less complicated."
+  },
+  {
+    "review_id": 293,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The car performs well enough in city traffic, yet the overall ownership experience is mixed because of poor range confidence and software quality."
+  },
+  {
+    "review_id": 294,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I appreciate the silent ride and strong structure, but I am not satisfied with the actual value. At this cost, I expected a more polished package."
+  },
+  {
+    "review_id": 295,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Not everything is bad, but too many things feel incomplete. Charging support, interface smoothness, and real range all need further improvement."
+  },
+  {
+    "review_id": 296,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "The vehicle is easy to drive and comfortable enough, but I would only suggest it to people with very predictable daily travel needs."
+  },
+  {
+    "review_id": 297,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "Service quality has not matched my expectations. The car itself is acceptable, but ownership satisfaction depends a lot on support, and that has been weak."
+  },
+  {
+    "review_id": 298,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "I enjoy the smooth drive, but every positive point gets reduced by the practical issues around range and charging. The convenience factor is still not fully there."
+  },
+  {
+    "review_id": 299,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "It is a decent urban EV with nice comfort and safety, but not a complete all purpose solution. Long term satisfaction depends on your usage pattern."
+  },
+  {
+    "review_id": 300,
+    "vehicle_model": "Tata Nexon EV",
+    "review_text": "My experience has been mostly average to disappointing. The car is not terrible, but it needs better charging support, better software, and more dependable real world range."
   }
-  ]
+]
 
