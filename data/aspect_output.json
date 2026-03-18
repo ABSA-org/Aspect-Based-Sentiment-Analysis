@@ -1257,5 +1257,659 @@
       "features",
       "interior"
     ]
+  },
+  {
+    "review_id": 201,
+    "aspects": [
+      "battery",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 202,
+    "aspects": [
+      "appearance",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 203,
+    "aspects": [
+      "charging",
+      "comfort",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 204,
+    "aspects": [
+      "battery",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 205,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 206,
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 207,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 208,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 209,
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 210,
+    "aspects": [
+      "charging",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 211,
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 212,
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 213,
+    "aspects": [
+      "appearance",
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 214,
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 215,
+    "aspects": [
+      "handling",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 216,
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 217,
+    "aspects": []
+  },
+  {
+    "review_id": 218,
+    "aspects": [
+      "battery",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 219,
+    "aspects": [
+      "appearance",
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 220,
+    "aspects": []
+  },
+  {
+    "review_id": 221,
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 222,
+    "aspects": [
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 223,
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 224,
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 225,
+    "aspects": [
+      "comfort",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 226,
+    "aspects": [
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 227,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 228,
+    "aspects": [
+      "battery",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 229,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 230,
+    "aspects": [
+      "brand",
+      "performance",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 231,
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 232,
+    "aspects": []
+  },
+  {
+    "review_id": 233,
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 234,
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 235,
+    "aspects": [
+      "battery",
+      "space"
+    ]
+  },
+  {
+    "review_id": 236,
+    "aspects": [
+      "charging",
+      "performance",
+      "service"
+    ]
+  },
+  {
+    "review_id": 237,
+    "aspects": [
+      "appearance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 238,
+    "aspects": [
+      "appearance",
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 239,
+    "aspects": []
+  },
+  {
+    "review_id": 240,
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 241,
+    "aspects": [
+      "charging",
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 242,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 243,
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 244,
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 245,
+    "aspects": [
+      "battery",
+      "price"
+    ]
+  },
+  {
+    "review_id": 246,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 247,
+    "aspects": []
+  },
+  {
+    "review_id": 248,
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 249,
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 250,
+    "aspects": []
+  },
+  {
+    "review_id": 251,
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 252,
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 253,
+    "aspects": []
+  },
+  {
+    "review_id": 254,
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 255,
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 256,
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 257,
+    "aspects": [
+      "efficiency",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 258,
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 259,
+    "aspects": [
+      "battery",
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 260,
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 261,
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 262,
+    "aspects": []
+  },
+  {
+    "review_id": 263,
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 264,
+    "aspects": [
+      "comfort",
+      "efficiency",
+      "performance",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 265,
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 266,
+    "aspects": [
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 267,
+    "aspects": []
+  },
+  {
+    "review_id": 268,
+    "aspects": [
+      "efficiency",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 269,
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 270,
+    "aspects": [
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 271,
+    "aspects": []
+  },
+  {
+    "review_id": 272,
+    "aspects": [
+      "features",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 273,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 274,
+    "aspects": [
+      "appearance",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 275,
+    "aspects": [
+      "battery",
+      "interior",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 276,
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 277,
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 278,
+    "aspects": [
+      "comfort",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 279,
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 280,
+    "aspects": [
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 281,
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 282,
+    "aspects": []
+  },
+  {
+    "review_id": 283,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 284,
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 285,
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 286,
+    "aspects": []
+  },
+  {
+    "review_id": 287,
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 288,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 289,
+    "aspects": [
+      "battery",
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 290,
+    "aspects": []
+  },
+  {
+    "review_id": 291,
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 292,
+    "aspects": []
+  },
+  {
+    "review_id": 293,
+    "aspects": [
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 294,
+    "aspects": [
+      "comfort",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 295,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 296,
+    "aspects": []
+  },
+  {
+    "review_id": 297,
+    "aspects": [
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 298,
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 299,
+    "aspects": [
+      "comfort",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 300,
+    "aspects": [
+      "range"
+    ]
   }
 ]
