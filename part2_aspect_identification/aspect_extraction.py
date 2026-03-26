@@ -124,6 +124,7 @@ def extract_aspects():
 
         aspect_output.append({
             "review_id": review["review_id"],
+            "vehicle_model": review["vehicle_model"],
             "aspects": aspects
         })
 

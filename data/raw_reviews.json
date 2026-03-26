@@ -1498,6 +1498,26 @@
     "review_id": 300,
     "vehicle_model": "Tata Nexon EV",
     "review_text": "My experience has been mostly average to disappointing. The car is not terrible, but it needs better charging support, better software, and more dependable real world range."
+  },
+  {
+    "review_id": 301,
+    "vehicle_model": "MG ZS EV",
+    "review_text": "The battery backup is good and the cabin feels premium. Charging time is acceptable but the price feels a bit high."
+  },
+  {
+    "review_id": 302,
+    "vehicle_model": "MG ZS EV",
+    "review_text": "Very comfortable ride and the features are excellent. Range is decent for city use, but service experience was disappointing."
+  },
+  {
+    "review_id": 303,
+    "vehicle_model": "Mahindra XUV400",
+    "review_text": "The performance is impressive and pickup is very smooth. Interior quality is nice, but charging infrastructure is still a problem."
+  },
+  {
+    "review_id": 304,
+    "vehicle_model": "Mahindra XUV400",
+    "review_text": "Spacious cabin, good safety and decent battery life. However, the price is expensive and the range could have been better."
   }
 ]
 

@@ -5067,5 +5067,77 @@
       "world",
       "range"
     ]
+  },
+  {
+    "review_id": 301,
+    "vehicle_model": "MG ZS EV",
+    "tokens": [
+      "battery",
+      "backup",
+      "good",
+      "cabin",
+      "feel",
+      "premium",
+      "charging",
+      "time",
+      "acceptable",
+      "price",
+      "feel",
+      "bit",
+      "high"
+    ]
+  },
+  {
+    "review_id": 302,
+    "vehicle_model": "MG ZS EV",
+    "tokens": [
+      "comfortable",
+      "ride",
+      "feature",
+      "excellent",
+      "range",
+      "decent",
+      "city",
+      "use",
+      "service",
+      "experience",
+      "disappointing"
+    ]
+  },
+  {
+    "review_id": 303,
+    "vehicle_model": "Mahindra XUV400",
+    "tokens": [
+      "performance",
+      "impressive",
+      "pickup",
+      "smooth",
+      "interior",
+      "quality",
+      "nice",
+      "charging",
+      "infrastructure",
+      "still",
+      "problem"
+    ]
+  },
+  {
+    "review_id": 304,
+    "vehicle_model": "Mahindra XUV400",
+    "tokens": [
+      "spacious",
+      "cabin",
+      "good",
+      "safety",
+      "decent",
+      "battery",
+      "life",
+      "however",
+      "price",
+      "expensive",
+      "range",
+      "could",
+      "better"
+    ]
   }
 ]

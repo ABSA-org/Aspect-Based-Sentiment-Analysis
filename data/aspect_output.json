@@ -1,6 +1,7 @@
 [
   {
     "review_id": 1,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "battery",
@@ -15,6 +16,7 @@
   },
   {
     "review_id": 2,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "features"
@@ -22,6 +24,7 @@
   },
   {
     "review_id": 3,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "brand",
       "charging",
@@ -30,6 +33,7 @@
   },
   {
     "review_id": 4,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "brand",
       "charging",
@@ -43,6 +47,7 @@
   },
   {
     "review_id": 5,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance",
       "price",
@@ -51,30 +56,35 @@
   },
   {
     "review_id": 6,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 7,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 8,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 9,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 10,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -82,18 +92,21 @@
   },
   {
     "review_id": 11,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 12,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "space"
     ]
   },
   {
     "review_id": 13,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "charging",
@@ -102,26 +115,31 @@
   },
   {
     "review_id": 14,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 15,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 16,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery"
     ]
   },
   {
     "review_id": 17,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 18,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior",
@@ -130,34 +148,40 @@
   },
   {
     "review_id": 19,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 20,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "safety"
     ]
   },
   {
     "review_id": 21,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "space"
     ]
   },
   {
     "review_id": 22,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 23,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 24,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "maintenance",
       "price"
@@ -165,12 +189,14 @@
   },
   {
     "review_id": 25,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 26,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "performance",
@@ -179,12 +205,14 @@
   },
   {
     "review_id": 27,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 28,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -192,6 +220,7 @@
   },
   {
     "review_id": 29,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior"
@@ -199,12 +228,14 @@
   },
   {
     "review_id": 30,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 31,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior"
@@ -212,12 +243,14 @@
   },
   {
     "review_id": 32,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 33,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "interior",
@@ -226,40 +259,47 @@
   },
   {
     "review_id": 34,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 35,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 36,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 37,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 38,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 39,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 40,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "performance",
@@ -268,22 +308,26 @@
   },
   {
     "review_id": 41,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 42,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 43,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 44,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "handling",
@@ -292,6 +336,7 @@
   },
   {
     "review_id": 45,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "price"
@@ -299,64 +344,76 @@
   },
   {
     "review_id": 46,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 47,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 48,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "space"
     ]
   },
   {
     "review_id": 49,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 50,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 51,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 52,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 53,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 54,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 55,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 56,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 57,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "range"
@@ -364,18 +421,22 @@
   },
   {
     "review_id": 58,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 59,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 60,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 61,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "features",
@@ -384,10 +445,12 @@
   },
   {
     "review_id": 62,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 63,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "performance"
@@ -395,60 +458,71 @@
   },
   {
     "review_id": 64,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 65,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 66,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 67,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency"
     ]
   },
   {
     "review_id": 68,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 69,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "handling"
     ]
   },
   {
     "review_id": 70,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 71,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 72,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 73,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 74,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "eco-friendliness",
       "price"
@@ -456,12 +530,14 @@
   },
   {
     "review_id": 75,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 76,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "price",
@@ -470,6 +546,7 @@
   },
   {
     "review_id": 77,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "performance"
@@ -477,6 +554,7 @@
   },
   {
     "review_id": 78,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "price"
@@ -484,38 +562,45 @@
   },
   {
     "review_id": 79,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "handling"
     ]
   },
   {
     "review_id": 80,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 81,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 82,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 83,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 84,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 85,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "performance"
@@ -523,42 +608,50 @@
   },
   {
     "review_id": 86,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 87,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 88,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 89,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 90,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 91,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 92,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 93,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "performance"
@@ -566,6 +659,7 @@
   },
   {
     "review_id": 94,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "efficiency"
@@ -573,60 +667,71 @@
   },
   {
     "review_id": 95,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 96,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 97,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 98,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "price"
     ]
   },
   {
     "review_id": 99,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 100,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 101,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 102,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 103,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 104,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 105,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "safety"
@@ -634,12 +739,14 @@
   },
   {
     "review_id": 106,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 107,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "eco-friendliness"
@@ -647,44 +754,52 @@
   },
   {
     "review_id": 108,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "price"
     ]
   },
   {
     "review_id": 109,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 110,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 111,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 112,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 113,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 114,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 115,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "range",
@@ -693,22 +808,26 @@
   },
   {
     "review_id": 116,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "space"
     ]
   },
   {
     "review_id": 117,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 118,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 119,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "performance"
@@ -716,30 +835,35 @@
   },
   {
     "review_id": 120,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency"
     ]
   },
   {
     "review_id": 121,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 122,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "space"
     ]
   },
   {
     "review_id": 123,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 124,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "features"
@@ -747,10 +871,12 @@
   },
   {
     "review_id": 125,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 126,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior"
@@ -758,30 +884,36 @@
   },
   {
     "review_id": 127,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "eco-friendliness"
     ]
   },
   {
     "review_id": 128,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 129,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 130,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 131,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 132,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "performance"
@@ -789,12 +921,14 @@
   },
   {
     "review_id": 133,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 134,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "range"
@@ -802,12 +936,14 @@
   },
   {
     "review_id": 135,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 136,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "handling",
       "interior"
@@ -815,34 +951,41 @@
   },
   {
     "review_id": 137,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 138,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 139,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 140,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 141,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 142,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "price"
     ]
   },
   {
     "review_id": 143,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "efficiency",
@@ -851,34 +994,40 @@
   },
   {
     "review_id": 144,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 145,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 146,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 147,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 148,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features"
     ]
   },
   {
     "review_id": 149,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "performance"
@@ -886,10 +1035,12 @@
   },
   {
     "review_id": 150,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 151,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "comfort",
@@ -899,6 +1050,7 @@
   },
   {
     "review_id": 152,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "interior",
@@ -907,6 +1059,7 @@
   },
   {
     "review_id": 153,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "performance",
@@ -915,6 +1068,7 @@
   },
   {
     "review_id": 154,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "range"
@@ -922,6 +1076,7 @@
   },
   {
     "review_id": 155,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "interior"
@@ -929,6 +1084,7 @@
   },
   {
     "review_id": 156,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "eco-friendliness",
       "performance"
@@ -936,6 +1092,7 @@
   },
   {
     "review_id": 157,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "charging"
@@ -943,12 +1100,14 @@
   },
   {
     "review_id": 158,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 159,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort"
@@ -956,6 +1115,7 @@
   },
   {
     "review_id": 160,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "features"
@@ -963,6 +1123,7 @@
   },
   {
     "review_id": 161,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "performance",
@@ -971,6 +1132,7 @@
   },
   {
     "review_id": 162,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "space"
@@ -978,6 +1140,7 @@
   },
   {
     "review_id": 163,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "range"
@@ -985,6 +1148,7 @@
   },
   {
     "review_id": 164,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "features",
@@ -993,12 +1157,14 @@
   },
   {
     "review_id": 165,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 166,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "features"
@@ -1006,6 +1172,7 @@
   },
   {
     "review_id": 167,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "maintenance",
       "price",
@@ -1014,6 +1181,7 @@
   },
   {
     "review_id": 168,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range",
@@ -1022,6 +1190,7 @@
   },
   {
     "review_id": 169,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort"
@@ -1029,12 +1198,14 @@
   },
   {
     "review_id": 170,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 171,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "interior",
@@ -1044,6 +1215,7 @@
   },
   {
     "review_id": 172,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "brand",
       "features"
@@ -1051,6 +1223,7 @@
   },
   {
     "review_id": 173,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "charging",
@@ -1060,6 +1233,7 @@
   },
   {
     "review_id": 174,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "performance",
@@ -1069,6 +1243,7 @@
   },
   {
     "review_id": 175,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "battery",
@@ -1079,6 +1254,7 @@
   },
   {
     "review_id": 176,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort"
@@ -1086,6 +1262,7 @@
   },
   {
     "review_id": 177,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "interior",
@@ -1095,12 +1272,14 @@
   },
   {
     "review_id": 178,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 179,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "range"
@@ -1108,6 +1287,7 @@
   },
   {
     "review_id": 180,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "features",
@@ -1117,6 +1297,7 @@
   },
   {
     "review_id": 181,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "price"
@@ -1124,18 +1305,21 @@
   },
   {
     "review_id": 182,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 183,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 184,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance",
       "range"
@@ -1143,6 +1327,7 @@
   },
   {
     "review_id": 185,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "maintenance",
@@ -1151,6 +1336,7 @@
   },
   {
     "review_id": 186,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort"
@@ -1158,6 +1344,7 @@
   },
   {
     "review_id": 187,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "performance"
@@ -1165,6 +1352,7 @@
   },
   {
     "review_id": 188,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "interior",
@@ -1173,6 +1361,7 @@
   },
   {
     "review_id": 189,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1180,12 +1369,14 @@
   },
   {
     "review_id": 190,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 191,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort",
@@ -1194,6 +1385,7 @@
   },
   {
     "review_id": 192,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "interior",
@@ -1202,6 +1394,7 @@
   },
   {
     "review_id": 193,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "battery"
@@ -1209,6 +1402,7 @@
   },
   {
     "review_id": 194,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior"
@@ -1216,6 +1410,7 @@
   },
   {
     "review_id": 195,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "performance"
@@ -1223,6 +1418,7 @@
   },
   {
     "review_id": 196,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "performance",
@@ -1232,6 +1428,7 @@
   },
   {
     "review_id": 197,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "interior",
@@ -1240,6 +1437,7 @@
   },
   {
     "review_id": 198,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "features",
@@ -1248,10 +1446,12 @@
   },
   {
     "review_id": 199,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 200,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "features",
@@ -1260,6 +1460,7 @@
   },
   {
     "review_id": 201,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range",
@@ -1268,6 +1469,7 @@
   },
   {
     "review_id": 202,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "charging"
@@ -1275,6 +1477,7 @@
   },
   {
     "review_id": 203,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort",
@@ -1284,6 +1487,7 @@
   },
   {
     "review_id": 204,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "performance",
@@ -1292,12 +1496,14 @@
   },
   {
     "review_id": 205,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 206,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "price"
@@ -1305,18 +1511,21 @@
   },
   {
     "review_id": 207,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 208,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 209,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "features"
@@ -1324,6 +1533,7 @@
   },
   {
     "review_id": 210,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "safety"
@@ -1331,12 +1541,14 @@
   },
   {
     "review_id": 211,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "service"
     ]
   },
   {
     "review_id": 212,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "price",
       "range"
@@ -1344,6 +1556,7 @@
   },
   {
     "review_id": 213,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "charging",
@@ -1352,6 +1565,7 @@
   },
   {
     "review_id": 214,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1359,6 +1573,7 @@
   },
   {
     "review_id": 215,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "handling",
       "interior",
@@ -1367,6 +1582,7 @@
   },
   {
     "review_id": 216,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range",
       "service"
@@ -1374,10 +1590,12 @@
   },
   {
     "review_id": 217,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 218,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "interior",
@@ -1386,6 +1604,7 @@
   },
   {
     "review_id": 219,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "charging",
@@ -1394,10 +1613,12 @@
   },
   {
     "review_id": 220,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 221,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "range"
@@ -1405,6 +1626,7 @@
   },
   {
     "review_id": 222,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "safety",
       "service"
@@ -1412,12 +1634,14 @@
   },
   {
     "review_id": 223,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "price"
     ]
   },
   {
     "review_id": 224,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1425,6 +1649,7 @@
   },
   {
     "review_id": 225,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "features",
@@ -1433,6 +1658,7 @@
   },
   {
     "review_id": 226,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range",
       "safety"
@@ -1440,12 +1666,14 @@
   },
   {
     "review_id": 227,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 228,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "efficiency"
@@ -1453,12 +1681,14 @@
   },
   {
     "review_id": 229,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 230,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "brand",
       "performance",
@@ -1468,6 +1698,7 @@
   },
   {
     "review_id": 231,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1475,10 +1706,12 @@
   },
   {
     "review_id": 232,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 233,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "range"
@@ -1486,6 +1719,7 @@
   },
   {
     "review_id": 234,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "performance"
@@ -1493,6 +1727,7 @@
   },
   {
     "review_id": 235,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "space"
@@ -1500,6 +1735,7 @@
   },
   {
     "review_id": 236,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "performance",
@@ -1508,6 +1744,7 @@
   },
   {
     "review_id": 237,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "range"
@@ -1515,6 +1752,7 @@
   },
   {
     "review_id": 238,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "features",
@@ -1523,10 +1761,12 @@
   },
   {
     "review_id": 239,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 240,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "range"
@@ -1534,6 +1774,7 @@
   },
   {
     "review_id": 241,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort",
@@ -1543,18 +1784,21 @@
   },
   {
     "review_id": 242,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 243,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "service"
     ]
   },
   {
     "review_id": 244,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "price"
@@ -1562,6 +1806,7 @@
   },
   {
     "review_id": 245,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "price"
@@ -1569,16 +1814,19 @@
   },
   {
     "review_id": 246,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 247,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 248,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior",
@@ -1587,6 +1835,7 @@
   },
   {
     "review_id": 249,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1594,10 +1843,12 @@
   },
   {
     "review_id": 250,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 251,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "performance"
@@ -1605,34 +1856,40 @@
   },
   {
     "review_id": 252,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 253,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 254,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 255,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort"
     ]
   },
   {
     "review_id": 256,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 257,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "interior",
@@ -1641,12 +1898,14 @@
   },
   {
     "review_id": 258,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 259,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "charging",
@@ -1655,6 +1914,7 @@
   },
   {
     "review_id": 260,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "performance"
@@ -1662,16 +1922,19 @@
   },
   {
     "review_id": 261,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 262,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 263,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "space"
@@ -1679,6 +1942,7 @@
   },
   {
     "review_id": 264,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "efficiency",
@@ -1689,12 +1953,14 @@
   },
   {
     "review_id": 265,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 266,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance",
       "safety"
@@ -1702,10 +1968,12 @@
   },
   {
     "review_id": 267,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 268,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "efficiency",
       "safety"
@@ -1713,12 +1981,14 @@
   },
   {
     "review_id": 269,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior"
     ]
   },
   {
     "review_id": 270,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "price"
@@ -1726,10 +1996,12 @@
   },
   {
     "review_id": 271,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 272,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "features",
       "interior",
@@ -1738,12 +2010,14 @@
   },
   {
     "review_id": 273,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 274,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance",
       "charging"
@@ -1751,6 +2025,7 @@
   },
   {
     "review_id": 275,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "interior",
@@ -1760,6 +2035,7 @@
   },
   {
     "review_id": 276,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging",
       "comfort"
@@ -1767,6 +2043,7 @@
   },
   {
     "review_id": 277,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "range"
@@ -1774,6 +2051,7 @@
   },
   {
     "review_id": 278,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior",
@@ -1782,12 +2060,14 @@
   },
   {
     "review_id": 279,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "service"
     ]
   },
   {
     "review_id": 280,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance",
       "price"
@@ -1795,38 +2075,45 @@
   },
   {
     "review_id": 281,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "appearance"
     ]
   },
   {
     "review_id": 282,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 283,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 284,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "performance"
     ]
   },
   {
     "review_id": 285,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "charging"
     ]
   },
   {
     "review_id": 286,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 287,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "interior"
@@ -1834,12 +2121,14 @@
   },
   {
     "review_id": 288,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 289,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "battery",
       "efficiency",
@@ -1848,10 +2137,12 @@
   },
   {
     "review_id": 290,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 291,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "performance"
@@ -1859,10 +2150,12 @@
   },
   {
     "review_id": 292,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 293,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "range"
@@ -1870,6 +2163,7 @@
   },
   {
     "review_id": 294,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "price",
@@ -1878,16 +2172,19 @@
   },
   {
     "review_id": 295,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 296,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": []
   },
   {
     "review_id": 297,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "interior",
       "service"
@@ -1895,12 +2192,14 @@
   },
   {
     "review_id": 298,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
     ]
   },
   {
     "review_id": 299,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "comfort",
       "safety"
@@ -1908,8 +2207,49 @@
   },
   {
     "review_id": 300,
+    "vehicle_model": "Tata Nexon EV",
     "aspects": [
       "range"
+    ]
+  },
+  {
+    "review_id": 301,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "charging",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 302,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 303,
+    "vehicle_model": "Mahindra XUV400",
+    "aspects": [
+      "charging",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 304,
+    "vehicle_model": "Mahindra XUV400",
+    "aspects": [
+      "battery",
+      "interior",
+      "price",
+      "range",
+      "safety"
     ]
   }
 ]

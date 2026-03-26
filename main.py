@@ -30,38 +30,45 @@ def generate_aspect_summary():
     with open("outputs/final_aspect_sentiment.json", "r") as f:
         data = json.load(f)
 
-    aspect_counts = defaultdict(lambda: {
+    aspect_counts = defaultdict(lambda: defaultdict(lambda: {
         "positive": 0,
         "negative": 0,
         "neutral": 0
-    })
+    }))
 
     for review in data:
+        vehicle_model = review["vehicle_model"]
         aspects = review["aspect_sentiment"]
 
         for aspect, sentiment in aspects.items():
-            aspect_counts[aspect][sentiment] += 1
+            aspect_counts[vehicle_model][aspect][sentiment] += 1
 
     aspect_summary = {}
 
-    for aspect, counts in aspect_counts.items():
-        total = sum(counts.values())
+    for vehicle_model, aspects in aspect_counts.items():
+        aspect_summary[vehicle_model] = {}
 
-        pos_pct = (counts["positive"] / total) * 100
-        neg_pct = (counts["negative"] / total) * 100
-        neu_pct = (counts["neutral"] / total) * 100
+        for aspect, counts in aspects.items():
+            total = sum(counts.values())
 
-        final_sentiment = max(counts, key=counts.get)
+            if total == 0:
+                pos_pct = neg_pct = neu_pct = 0
+            else:
+                pos_pct = (counts["positive"] / total) * 100
+                neg_pct = (counts["negative"] / total) * 100
+                neu_pct = (counts["neutral"] / total) * 100
 
-        aspect_summary[aspect] = {
-            "counts": counts,
-            "percentage": {
-                "positive": round(pos_pct, 2),
-                "negative": round(neg_pct, 2),
-                "neutral": round(neu_pct, 2)
-            },
-            "final_sentiment": final_sentiment
-        }
+            final_sentiment = max(counts, key=counts.get)
+
+            aspect_summary[vehicle_model][aspect] = {
+                "counts": counts,
+                "percentage": {
+                    "positive": round(pos_pct, 2),
+                    "negative": round(neg_pct, 2),
+                    "neutral": round(neu_pct, 2)
+                },
+                "final_sentiment": final_sentiment
+            }
 
     with open("outputs/aspect_summary.json", "w") as f:
         json.dump(aspect_summary, f, indent=4)

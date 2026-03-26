@@ -35,8 +35,6 @@ ASPECT_WORDS = {
 
     "handling": ["handling","steering","control","stability"],
 
-    "brand": ["tata","nexon"],
-
     "eco-friendliness": ["eco","electric","ev","emission"]
 }
 
@@ -104,9 +102,6 @@ def context_window_sentiment(tokens, aspect, sia, window_size=3):
     return window_score
 
 
-
-
-
 def run_sentiment_analysis():
 
     nltk.download('vader_lexicon')
@@ -130,18 +125,20 @@ def run_sentiment_analysis():
     with open("data/aspect_output.json", "r") as f:
         aspects_data = json.load(f)
 
+    aspect_lookup = {
+        (asp["review_id"], asp["vehicle_model"]): asp["aspects"]
+        for asp in aspects_data
+    }
+
     final_results = []
 
     for review_obj in reviews:
 
         review_id = review_obj["review_id"]
+        vehicle_model = review_obj["vehicle_model"]
         tokens = review_obj["tokens"]
 
-        aspect_list = []
-        for asp in aspects_data:
-            if asp["review_id"] == review_id:
-                aspect_list = asp["aspects"]
-                break
+        aspect_list = aspect_lookup.get((review_id, vehicle_model), [])
 
         sentence = " ".join(tokens)
         doc = nlp(sentence)
@@ -153,7 +150,6 @@ def run_sentiment_analysis():
             parser_score = dependency_parser_sentiment(doc, aspect, sia, INTENSIFIERS)
             window_score = context_window_sentiment(tokens, aspect, sia)
 
-            # Hybrid score
             final_score = parser_score + 0.5 * window_score
 
             if final_score > 0.1:
@@ -167,6 +163,7 @@ def run_sentiment_analysis():
 
         final_results.append({
             "review_id": review_id,
+            "vehicle_model": vehicle_model,
             "aspect_sentiment": aspect_sentiments
         })
 
