@@ -136,17 +136,20 @@ col2.metric(
 
 col3.metric(
     "😊 Overall Satisfaction",
-    f"{round(overall_score,1)}%"
+    f"{round(overall_score,1)}%",
+    help="Percentage of positive sentiment among all aspect mentions"
 )
 
 col4.metric(
     "🔥 Opinion Satisfaction",
-    f"{round(opinion_score,1)}%"
+    f"{round(opinion_score,1)}%",
+    help="Positive vs negative sentiment ignoring neutral opinions"
 )
 
 col5.metric(
     "👍 Acceptance Score",
-    f"{round(acceptance_score,1)}%"
+    f"{round(acceptance_score,1)}%",
+    help="Percentage of non-negative user experience"
 )
 
 st.divider()
