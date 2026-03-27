@@ -2144,49 +2144,61 @@
     "review_id": 291,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "comfort",
-      "performance"
+      "eco-friendliness",
+      "efficiency",
+      "maintenance"
     ]
   },
   {
     "review_id": 292,
     "vehicle_model": "Tata Nexon EV",
-    "aspects": []
+    "aspects": [
+      "maintenance"
+    ]
   },
   {
     "review_id": 293,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "interior",
-      "range"
+      "eco-friendliness",
+      "efficiency",
+      "maintenance",
+      "price"
     ]
   },
   {
     "review_id": 294,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "comfort",
-      "price",
-      "safety"
+      "efficiency",
+      "maintenance"
     ]
   },
   {
     "review_id": 295,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "range"
+      "charging",
+      "efficiency",
+      "maintenance"
     ]
   },
   {
     "review_id": 296,
     "vehicle_model": "Tata Nexon EV",
-    "aspects": []
+    "aspects": [
+      "efficiency",
+      "maintenance"
+    ]
   },
   {
     "review_id": 297,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "interior",
+      "eco-friendliness",
+      "efficiency",
+      "maintenance",
+      "performance",
       "service"
     ]
   },
@@ -2194,22 +2206,25 @@
     "review_id": 298,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "range"
+      "eco-friendliness",
+      "efficiency",
+      "maintenance"
     ]
   },
   {
     "review_id": 299,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "comfort",
-      "safety"
+      "maintenance"
     ]
   },
   {
     "review_id": 300,
     "vehicle_model": "Tata Nexon EV",
     "aspects": [
-      "range"
+      "efficiency",
+      "interior",
+      "maintenance"
     ]
   },
   {
@@ -2219,22 +2234,644 @@
       "battery",
       "charging",
       "interior",
-      "price"
+      "performance",
+      "price",
+      "safety",
+      "service"
     ]
   },
   {
     "review_id": 302,
     "vehicle_model": "MG ZS EV",
     "aspects": [
-      "comfort",
-      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 303,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
       "range",
       "service"
     ]
   },
   {
-    "review_id": 303,
-    "vehicle_model": "Mahindra XUV400",
+    "review_id": 304,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range",
+      "service",
+      "space"
+    ]
+  },
+  {
+    "review_id": 305,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 306,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 307,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 308,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 309,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 310,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 311,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 312,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 313,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 314,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 315,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 316,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 317,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 318,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 319,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 320,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 321,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 322,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 323,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 324,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 325,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 326,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 327,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 328,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 329,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 330,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 331,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 332,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 333,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 334,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 335,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 336,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 337,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 338,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 339,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 340,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 341,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 342,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 343,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 344,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 345,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 346,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 347,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 348,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 349,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 350,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 351,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 352,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 353,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 354,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 355,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 356,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 357,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 358,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 359,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 360,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 361,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 362,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 363,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 364,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 365,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 366,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 367,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 368,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 369,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 370,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 371,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 372,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 373,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 374,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 375,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 376,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 377,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 378,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 379,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 380,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 381,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 382,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 383,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 384,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 385,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 386,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 387,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 388,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 389,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 390,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 391,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 392,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 393,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 394,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 395,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 396,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 397,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 398,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 399,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 400,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 401,
+    "vehicle_model": "MG ZS EV",
     "aspects": [
       "charging",
       "interior",
@@ -2242,14 +2879,10311 @@
     ]
   },
   {
-    "review_id": 304,
-    "vehicle_model": "Mahindra XUV400",
+    "review_id": 402,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 403,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 404,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 405,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 406,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 407,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 408,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "eco-friendliness",
+      "range"
+    ]
+  },
+  {
+    "review_id": 409,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 410,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 411,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 412,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 413,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 414,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 415,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 416,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 417,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 418,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 419,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "efficiency",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 420,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 421,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 422,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 423,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 424,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "features"
+    ]
+  },
+  {
+    "review_id": 425,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 426,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 427,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 428,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 429,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 430,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 431,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 432,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 433,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 434,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 435,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 436,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 437,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 438,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 439,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 440,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 441,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 442,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 443,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 444,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 445,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 446,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 447,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 448,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 449,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 450,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 451,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 452,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 453,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 454,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 455,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 456,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 457,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling",
+      "range"
+    ]
+  },
+  {
+    "review_id": 458,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 459,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "features"
+    ]
+  },
+  {
+    "review_id": 460,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 461,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 462,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 463,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 464,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 465,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 466,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 467,
+    "vehicle_model": "MG ZS EV",
     "aspects": [
       "battery",
       "interior",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 468,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 469,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 470,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 471,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 472,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "interior",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 473,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 474,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 475,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 476,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 477,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 478,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 479,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 480,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 481,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 482,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 483,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 484,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "maintenance",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 485,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 486,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 487,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 488,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 489,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 490,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 491,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 492,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 493,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 494,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 495,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 496,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 497,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 498,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 499,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 500,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 501,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 502,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 503,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 504,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 505,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 506,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 507,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 508,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 509,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 510,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 511,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 512,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 513,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 514,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "handling",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 515,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 516,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 517,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 518,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 519,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 520,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 521,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 522,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 523,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 524,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 525,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 526,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 527,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 528,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 529,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 530,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 531,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 532,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 533,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 534,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "space"
+    ]
+  },
+  {
+    "review_id": 535,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 536,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 537,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 538,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 539,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 540,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 541,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 542,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 543,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 544,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "price"
+    ]
+  },
+  {
+    "review_id": 545,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 546,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 547,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 548,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 549,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 550,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 551,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 552,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 553,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 554,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 555,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 556,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "performance",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 557,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "brand",
+      "features"
+    ]
+  },
+  {
+    "review_id": 558,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "charging",
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 559,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 560,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "battery",
+      "comfort",
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 561,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 562,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "interior",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 563,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 564,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 565,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 566,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 567,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 568,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 569,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 570,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "maintenance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 571,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 572,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 573,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 574,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 575,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 576,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 577,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 578,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "battery"
+    ]
+  },
+  {
+    "review_id": 579,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 580,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 581,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 582,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 583,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 584,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 585,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 586,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 587,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 588,
+    "vehicle_model": "MG ZS EV",
+    "aspects": []
+  },
+  {
+    "review_id": 589,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 590,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 591,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 592,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery",
+      "comfort",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 593,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "features",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 594,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 595,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 596,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 597,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "eco-friendliness",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 598,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 599,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 600,
+    "vehicle_model": "MG ZS EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 601,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "price",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 602,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 603,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 604,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 605,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 606,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 607,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 608,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 609,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 610,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 611,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 612,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 613,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 614,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 615,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 616,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 617,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 618,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 619,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 620,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 621,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 622,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "brand",
+      "service"
+    ]
+  },
+  {
+    "review_id": 623,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 624,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 625,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 626,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 627,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 628,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 629,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 630,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 631,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 632,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 633,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 634,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 635,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 636,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 637,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 638,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 639,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 640,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 641,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 642,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 643,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 644,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 645,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 646,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 647,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 648,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 649,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 650,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 651,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 652,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 653,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 654,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 655,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 656,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 657,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 658,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 659,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 660,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 661,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 662,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 663,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 664,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 665,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 666,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 667,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 668,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 669,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 670,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 671,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 672,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 673,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 674,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 675,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 676,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 677,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 678,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 679,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 680,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 681,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 682,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 683,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 684,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 685,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 686,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "handling",
+      "price"
+    ]
+  },
+  {
+    "review_id": 687,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 688,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 689,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 690,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 691,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 692,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 693,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 694,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 695,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 696,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 697,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "service"
+    ]
+  },
+  {
+    "review_id": 698,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 699,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 700,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 701,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 702,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 703,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 704,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 705,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 706,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 707,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 708,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 709,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 710,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 711,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 712,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 713,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 714,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 715,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 716,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 717,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 718,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 719,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 720,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 721,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 722,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 723,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range",
+      "space"
+    ]
+  },
+  {
+    "review_id": 724,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 725,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 726,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 727,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 728,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 729,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 730,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 731,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 732,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 733,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 734,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "maintenance",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 735,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 736,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 737,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 738,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 739,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 740,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 741,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 742,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 743,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 744,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 745,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 746,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 747,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 748,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 749,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 750,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 751,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 752,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 753,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 754,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 755,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 756,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "performance",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 757,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 758,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 759,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "space"
+    ]
+  },
+  {
+    "review_id": 760,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 761,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 762,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 763,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 764,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 765,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 766,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 767,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 768,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 769,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 770,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "maintenance"
+    ]
+  },
+  {
+    "review_id": 771,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 772,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 773,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 774,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 775,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 776,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 777,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 778,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 779,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 780,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 781,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 782,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 783,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 784,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 785,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 786,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 787,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 788,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 789,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 790,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 791,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 792,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 793,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 794,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 795,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "handling",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 796,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 797,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 798,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 799,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 800,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 801,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 802,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 803,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 804,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 805,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 806,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 807,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 808,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 809,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 810,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 811,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 812,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 813,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 814,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 815,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 816,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 817,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 818,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 819,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 820,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 821,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 822,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 823,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 824,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 825,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 826,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 827,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 828,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 829,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 830,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 831,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 832,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "space"
+    ]
+  },
+  {
+    "review_id": 833,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 834,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 835,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 836,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 837,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 838,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 839,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 840,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "brand",
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 841,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 842,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "eco-friendliness",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 843,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 844,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 845,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 846,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 847,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 848,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 849,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "performance",
       "price",
       "range",
       "safety"
     ]
+  },
+  {
+    "review_id": 850,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 851,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 852,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 853,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 854,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 855,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 856,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 857,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 858,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 859,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 860,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 861,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 862,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 863,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 864,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 865,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 866,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 867,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 868,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "price",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 869,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 870,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 871,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 872,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 873,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 874,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 875,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 876,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 877,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 878,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 879,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 880,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 881,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 882,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "brand",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 883,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 884,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 885,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 886,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 887,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 888,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 889,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 890,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 891,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 892,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 893,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 894,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 895,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "appearance",
+      "brand",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 896,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 897,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 898,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 899,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": []
+  },
+  {
+    "review_id": 900,
+    "vehicle_model": "Mahindra XUV400 EV",
+    "aspects": [
+      "performance",
+      "price",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 901,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 902,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "eco-friendliness",
+      "range"
+    ]
+  },
+  {
+    "review_id": 903,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "efficiency",
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 904,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 905,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "efficiency",
+      "features",
+      "maintenance"
+    ]
+  },
+  {
+    "review_id": 906,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 907,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 908,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 909,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 910,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 911,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 912,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 913,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 914,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 915,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 916,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "safety",
+      "space"
+    ]
+  },
+  {
+    "review_id": 917,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 918,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 919,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 920,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 921,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "eco-friendliness",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 922,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 923,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 924,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 925,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 926,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 927,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 928,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "service"
+    ]
+  },
+  {
+    "review_id": 929,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 930,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 931,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 932,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 933,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 934,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 935,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 936,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 937,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 938,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 939,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 940,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 941,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 942,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "range"
+    ]
+  },
+  {
+    "review_id": 943,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 944,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 945,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 946,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 947,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 948,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 949,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 950,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 951,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 952,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 953,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 954,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "maintenance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 955,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 956,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 957,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 958,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 959,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 960,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 961,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 962,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 963,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 964,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 965,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 966,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 967,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 968,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 969,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 970,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 971,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 972,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 973,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 974,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 975,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 976,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 977,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 978,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 979,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 980,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 981,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 982,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 983,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 984,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 985,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 986,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "maintenance",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 987,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "eco-friendliness",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 988,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 989,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 990,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "efficiency",
+      "service"
+    ]
+  },
+  {
+    "review_id": 991,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 992,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 993,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 994,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 995,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 996,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 997,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 998,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 999,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1000,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1001,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1002,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1003,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1004,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1005,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1006,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1007,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1008,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1009,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1010,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1011,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1012,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1013,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1014,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1015,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1016,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1017,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1018,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1019,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1020,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1021,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1022,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1023,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1024,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1025,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1026,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1027,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1028,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1029,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency",
+      "maintenance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1030,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "price",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1031,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1032,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1033,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1034,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1035,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1036,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1037,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1038,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1039,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1040,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1041,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1042,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1043,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1044,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1045,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1046,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1047,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1048,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1049,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1050,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1051,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1052,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1053,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1054,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1055,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1056,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1057,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1058,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1059,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1060,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1061,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1062,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1063,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1064,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1065,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1066,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "maintenance",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1067,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1068,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1069,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency",
+      "features",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1070,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1071,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1072,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1073,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1074,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1075,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1076,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1077,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1078,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1079,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1080,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1081,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1082,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 1083,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1084,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1085,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1086,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1087,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1088,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "handling",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1089,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1090,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1091,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1092,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1093,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1094,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1095,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1096,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1097,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1098,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1099,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1100,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1101,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1102,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1103,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1104,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "interior",
+      "performance",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1105,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1106,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1107,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "maintenance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1108,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1109,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1110,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1111,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1112,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1113,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1114,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1115,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1116,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1117,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1118,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1119,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1120,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1121,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1122,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1123,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1124,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1125,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1126,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1127,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1128,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "charging",
+      "performance",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1129,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1130,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1131,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1132,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1133,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1134,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1135,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1136,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1137,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1138,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1139,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1140,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1141,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1142,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1143,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1144,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "charging",
+      "performance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1145,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "interior",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1146,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1147,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1148,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1149,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "eco-friendliness",
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1150,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1151,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1152,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1153,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1154,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1155,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1156,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1157,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1158,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1159,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1160,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1161,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1162,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1163,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1164,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1165,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1166,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1167,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1168,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "appearance",
+      "battery",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1169,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1170,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1171,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1172,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1173,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1174,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1175,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1176,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1177,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1178,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1179,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1180,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1181,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1182,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1183,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1184,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery",
+      "comfort",
+      "features",
+      "handling",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1185,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "comfort",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1186,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "features",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1187,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "charging",
+      "efficiency",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1188,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1189,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1190,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "interior",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1191,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1192,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1193,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1194,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency"
+    ]
+  },
+  {
+    "review_id": 1195,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "efficiency",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1196,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1197,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1198,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1199,
+    "vehicle_model": "Tata Punch EV",
+    "aspects": [
+      "brand",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1201,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "features",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1202,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1203,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1204,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "battery",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1205,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1206,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1207,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1208,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1209,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1210,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1211,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1212,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1213,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1214,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1215,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1216,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1217,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1218,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1219,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1220,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1221,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1222,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1223,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "comfort",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1224,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1225,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1226,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1227,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "price",
+      "range",
+      "service",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1228,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1229,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "efficiency",
+      "features",
+      "interior",
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1230,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1231,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "efficiency",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1232,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1233,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1234,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1235,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "features",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1236,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1237,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1238,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1239,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1240,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1241,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1242,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1243,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1244,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1245,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1246,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1247,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1248,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1249,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1250,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1251,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1252,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "efficiency",
+      "features",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1253,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1254,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1255,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1256,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1257,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1258,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1259,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1260,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1261,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1262,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1263,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1264,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1265,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1266,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1267,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1268,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1269,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1270,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1271,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1272,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1273,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "handling",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1274,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1275,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "handling",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1276,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1277,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "price",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1278,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1279,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "charging",
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1280,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1281,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1282,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1283,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1284,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1285,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1286,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1287,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1288,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1289,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1290,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1291,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1292,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1293,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1294,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1295,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "price",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1296,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1297,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1298,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1299,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "brand",
+      "charging",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1300,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1301,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1302,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1303,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1304,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1305,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1306,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1307,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1308,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1309,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "battery",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1310,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "efficiency",
+      "interior",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1311,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1312,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1313,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1314,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "comfort",
+      "efficiency",
+      "interior",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1315,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1316,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1317,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1318,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1319,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1320,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1321,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1322,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1323,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1324,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1325,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1326,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "price",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1327,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1328,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "eco-friendliness",
+      "features",
+      "safety",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1329,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1330,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "eco-friendliness",
+      "efficiency",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1331,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1332,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "comfort",
+      "features",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1333,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1334,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1335,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1336,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1337,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1338,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1339,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1340,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1341,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1342,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1343,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1344,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1345,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1346,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "comfort",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1347,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1348,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1349,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "efficiency",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1350,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "performance",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1351,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1352,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "maintenance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1353,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1354,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1355,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1356,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1357,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1358,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1359,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1360,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1361,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1362,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1363,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1364,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1365,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1366,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1367,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1368,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1369,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "battery",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1370,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "handling",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1371,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1372,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1373,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1374,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "performance",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1375,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1376,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1377,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1378,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1379,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1380,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1381,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1382,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1383,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1384,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1385,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1386,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "interior",
+      "performance",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1387,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "price",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1388,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "maintenance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1389,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1390,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features",
+      "interior",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1391,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1392,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1393,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features",
+      "performance",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1394,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "performance",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1395,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1396,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1397,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1398,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1399,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1400,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1401,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1402,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1403,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1404,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1405,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1406,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "interior",
+      "price",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1407,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1408,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1409,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1410,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1411,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "brand",
+      "features",
+      "handling"
+    ]
+  },
+  {
+    "review_id": 1412,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "maintenance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1413,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1414,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "performance",
+      "price",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1415,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1416,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1417,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1418,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1419,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1420,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1421,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1422,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1423,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1424,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1425,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1426,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "interior",
+      "performance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1427,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1428,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1429,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1430,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1431,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "eco-friendliness",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1432,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior",
+      "price",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1433,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1434,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "maintenance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1435,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1436,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1437,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1438,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1439,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1440,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1441,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1442,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1443,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1444,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1445,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1446,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "features",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1447,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1448,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "price",
+      "range",
+      "service",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1449,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1450,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1451,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1452,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1453,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1454,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1455,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1456,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1457,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1458,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1459,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "charging",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1460,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1461,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1462,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "brand",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1463,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "efficiency",
+      "features",
+      "interior",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1464,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1465,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "efficiency",
+      "features",
+      "interior",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1466,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1467,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "features",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1468,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1469,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1470,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1471,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1472,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1473,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1474,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1475,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1476,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1477,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1478,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1479,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1480,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1481,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "performance",
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1482,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1483,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1484,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1485,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "battery",
+      "performance",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1486,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1487,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "comfort",
+      "interior",
+      "performance",
+      "range",
+      "safety",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1488,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "charging",
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1489,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior",
+      "price",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1490,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "appearance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1491,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "features",
+      "interior",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1492,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1493,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1494,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1495,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1496,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1497,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1498,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1499,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": []
+  },
+  {
+    "review_id": 1500,
+    "vehicle_model": "Hyundai Creta Electric",
+    "aspects": [
+      "comfort",
+      "features",
+      "performance",
+      "range",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1501,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1502,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1503,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1504,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1505,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1506,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1507,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1508,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1509,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1510,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1511,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1512,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1513,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1514,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1515,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1516,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1517,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1518,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1519,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1520,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1521,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1522,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1523,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1524,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1525,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 1526,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1527,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1528,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1529,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1530,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1531,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1532,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1533,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1534,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1535,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1536,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1537,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1538,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1539,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1540,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1541,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1542,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1543,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1544,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1545,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1546,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1547,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1548,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1549,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1550,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1551,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1552,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand"
+    ]
+  },
+  {
+    "review_id": 1553,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1554,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1555,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1556,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1557,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand"
+    ]
+  },
+  {
+    "review_id": 1558,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1559,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1560,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1561,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1562,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1563,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1564,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1565,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1566,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1567,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1568,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "handling"
+    ]
+  },
+  {
+    "review_id": 1569,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1570,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1571,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1572,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1573,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1574,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1575,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1576,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1577,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1578,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1579,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1580,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1581,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1582,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1583,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1584,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1585,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1586,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1587,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1588,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1589,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1590,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1591,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1592,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1593,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1594,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1595,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1596,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1597,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1598,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1599,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1600,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1601,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1602,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1603,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1604,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1605,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1606,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1607,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1608,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1609,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand"
+    ]
+  },
+  {
+    "review_id": 1610,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1611,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1612,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1613,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1614,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1615,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1616,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1617,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1618,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1619,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1620,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1621,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1622,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1623,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1624,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1625,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1626,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1627,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1628,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1629,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1630,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1631,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1632,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1633,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1634,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1635,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1636,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1637,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1638,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1639,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1640,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1641,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1642,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1643,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1644,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1645,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1646,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1647,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1648,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1649,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1650,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1651,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1652,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "features",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1653,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1654,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1655,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1656,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1657,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1658,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1659,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1660,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1661,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1662,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1663,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1664,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1665,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1666,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1667,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1668,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1669,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1670,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1671,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1672,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1673,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1674,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1675,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand"
+    ]
+  },
+  {
+    "review_id": 1676,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1677,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1678,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1679,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1680,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1681,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1682,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1683,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1684,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1685,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1686,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1687,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1688,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1689,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1690,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1691,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1692,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1693,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1694,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1695,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1696,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1697,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1698,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1699,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1700,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1701,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1702,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1703,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1704,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1705,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1706,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand"
+    ]
+  },
+  {
+    "review_id": 1707,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features"
+    ]
+  },
+  {
+    "review_id": 1708,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1709,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1710,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1711,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1712,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1713,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery"
+    ]
+  },
+  {
+    "review_id": 1714,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1715,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1716,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "service"
+    ]
+  },
+  {
+    "review_id": 1717,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1718,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1719,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1720,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1721,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "space"
+    ]
+  },
+  {
+    "review_id": 1722,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1723,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1724,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1725,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1726,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1727,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1728,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1729,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1730,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1731,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1732,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1733,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1734,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1735,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1736,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1737,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1738,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1739,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1740,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1741,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1742,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1743,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1744,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1745,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1746,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1747,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1748,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1749,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1750,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "features",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1751,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1752,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1753,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1754,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1755,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1756,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1757,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1758,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1759,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1760,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1761,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1762,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1763,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1764,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "space"
+    ]
+  },
+  {
+    "review_id": 1765,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1766,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "range"
+    ]
+  },
+  {
+    "review_id": 1767,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1768,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1769,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1770,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1771,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1772,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1773,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1774,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1775,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1776,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "charging",
+      "price"
+    ]
+  },
+  {
+    "review_id": 1777,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1778,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "performance",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1779,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness",
+      "interior"
+    ]
+  },
+  {
+    "review_id": 1780,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "brand",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1781,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1782,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1783,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "range"
+    ]
+  },
+  {
+    "review_id": 1784,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1785,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "eco-friendliness"
+    ]
+  },
+  {
+    "review_id": 1786,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1787,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance"
+    ]
+  },
+  {
+    "review_id": 1788,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1789,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "features",
+      "interior",
+      "price",
+      "safety"
+    ]
+  },
+  {
+    "review_id": 1790,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1791,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "interior",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1792,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort",
+      "features"
+    ]
+  },
+  {
+    "review_id": 1793,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price",
+      "service"
+    ]
+  },
+  {
+    "review_id": 1794,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1795,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "appearance",
+      "charging"
+    ]
+  },
+  {
+    "review_id": 1796,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "comfort"
+    ]
+  },
+  {
+    "review_id": 1797,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
+  },
+  {
+    "review_id": 1798,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "battery",
+      "performance"
+    ]
+  },
+  {
+    "review_id": 1799,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": [
+      "price"
+    ]
+  },
+  {
+    "review_id": 1800,
+    "vehicle_model": "Tata Harrier EV",
+    "aspects": []
   }
 ]

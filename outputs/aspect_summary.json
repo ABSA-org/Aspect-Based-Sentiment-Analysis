@@ -41,40 +41,40 @@
         },
         "comfort": {
             "counts": {
-                "positive": 40,
+                "positive": 37,
                 "negative": 0,
                 "neutral": 5
             },
             "percentage": {
-                "positive": 88.89,
+                "positive": 88.1,
                 "negative": 0.0,
-                "neutral": 11.11
+                "neutral": 11.9
             },
             "final_sentiment": "positive"
         },
         "maintenance": {
             "counts": {
-                "positive": 1,
-                "negative": 4,
-                "neutral": 0
+                "positive": 5,
+                "negative": 5,
+                "neutral": 5
             },
             "percentage": {
-                "positive": 20.0,
-                "negative": 80.0,
-                "neutral": 0.0
+                "positive": 33.33,
+                "negative": 33.33,
+                "neutral": 33.33
             },
-            "final_sentiment": "negative"
+            "final_sentiment": "positive"
         },
         "performance": {
             "counts": {
-                "positive": 41,
+                "positive": 42,
                 "negative": 1,
-                "neutral": 27
+                "neutral": 26
             },
             "percentage": {
-                "positive": 59.42,
+                "positive": 60.87,
                 "negative": 1.45,
-                "neutral": 39.13
+                "neutral": 37.68
             },
             "final_sentiment": "positive"
         },
@@ -93,7 +93,7 @@
         },
         "safety": {
             "counts": {
-                "positive": 20,
+                "positive": 18,
                 "negative": 0,
                 "neutral": 0
             },
@@ -134,12 +134,12 @@
             "counts": {
                 "positive": 21,
                 "negative": 7,
-                "neutral": 17
+                "neutral": 18
             },
             "percentage": {
-                "positive": 46.67,
-                "negative": 15.56,
-                "neutral": 37.78
+                "positive": 45.65,
+                "negative": 15.22,
+                "neutral": 39.13
             },
             "final_sentiment": "positive"
         },
@@ -147,12 +147,12 @@
             "counts": {
                 "positive": 12,
                 "negative": 16,
-                "neutral": 24
+                "neutral": 20
             },
             "percentage": {
-                "positive": 23.08,
-                "negative": 30.77,
-                "neutral": 46.15
+                "positive": 25.0,
+                "negative": 33.33,
+                "neutral": 41.67
             },
             "final_sentiment": "neutral"
         },
@@ -171,27 +171,27 @@
         },
         "interior": {
             "counts": {
-                "positive": 30,
+                "positive": 29,
                 "negative": 1,
                 "neutral": 18
             },
             "percentage": {
-                "positive": 61.22,
-                "negative": 2.04,
-                "neutral": 36.73
+                "positive": 60.42,
+                "negative": 2.08,
+                "neutral": 37.5
             },
             "final_sentiment": "positive"
         },
         "efficiency": {
             "counts": {
-                "positive": 8,
+                "positive": 16,
                 "negative": 2,
                 "neutral": 3
             },
             "percentage": {
-                "positive": 61.54,
-                "negative": 15.38,
-                "neutral": 23.08
+                "positive": 76.19,
+                "negative": 9.52,
+                "neutral": 14.29
             },
             "final_sentiment": "positive"
         },
@@ -210,6 +210,387 @@
         },
         "eco-friendliness": {
             "counts": {
+                "positive": 4,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 50.0,
+                "negative": 0.0,
+                "neutral": 50.0
+            },
+            "final_sentiment": "positive"
+        }
+    },
+    "MG ZS EV": {
+        "battery": {
+            "counts": {
+                "positive": 21,
+                "negative": 0,
+                "neutral": 11
+            },
+            "percentage": {
+                "positive": 65.62,
+                "negative": 0.0,
+                "neutral": 34.38
+            },
+            "final_sentiment": "positive"
+        },
+        "charging": {
+            "counts": {
+                "positive": 20,
+                "negative": 13,
+                "neutral": 16
+            },
+            "percentage": {
+                "positive": 40.82,
+                "negative": 26.53,
+                "neutral": 32.65
+            },
+            "final_sentiment": "positive"
+        },
+        "interior": {
+            "counts": {
+                "positive": 30,
+                "negative": 2,
+                "neutral": 9
+            },
+            "percentage": {
+                "positive": 73.17,
+                "negative": 4.88,
+                "neutral": 21.95
+            },
+            "final_sentiment": "positive"
+        },
+        "performance": {
+            "counts": {
+                "positive": 45,
+                "negative": 5,
+                "neutral": 15
+            },
+            "percentage": {
+                "positive": 69.23,
+                "negative": 7.69,
+                "neutral": 23.08
+            },
+            "final_sentiment": "positive"
+        },
+        "price": {
+            "counts": {
+                "positive": 13,
+                "negative": 4,
+                "neutral": 7
+            },
+            "percentage": {
+                "positive": 54.17,
+                "negative": 16.67,
+                "neutral": 29.17
+            },
+            "final_sentiment": "positive"
+        },
+        "safety": {
+            "counts": {
+                "positive": 22,
+                "negative": 1,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 95.65,
+                "negative": 4.35,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        },
+        "service": {
+            "counts": {
+                "positive": 8,
+                "negative": 2,
+                "neutral": 3
+            },
+            "percentage": {
+                "positive": 61.54,
+                "negative": 15.38,
+                "neutral": 23.08
+            },
+            "final_sentiment": "positive"
+        },
+        "range": {
+            "counts": {
+                "positive": 31,
+                "negative": 11,
+                "neutral": 15
+            },
+            "percentage": {
+                "positive": 54.39,
+                "negative": 19.3,
+                "neutral": 26.32
+            },
+            "final_sentiment": "positive"
+        },
+        "space": {
+            "counts": {
+                "positive": 8,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 88.89,
+                "negative": 0.0,
+                "neutral": 11.11
+            },
+            "final_sentiment": "positive"
+        },
+        "comfort": {
+            "counts": {
+                "positive": 35,
+                "negative": 2,
+                "neutral": 5
+            },
+            "percentage": {
+                "positive": 83.33,
+                "negative": 4.76,
+                "neutral": 11.9
+            },
+            "final_sentiment": "positive"
+        },
+        "features": {
+            "counts": {
+                "positive": 26,
+                "negative": 5,
+                "neutral": 9
+            },
+            "percentage": {
+                "positive": 65.0,
+                "negative": 12.5,
+                "neutral": 22.5
+            },
+            "final_sentiment": "positive"
+        },
+        "appearance": {
+            "counts": {
+                "positive": 16,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 80.0,
+                "negative": 0.0,
+                "neutral": 20.0
+            },
+            "final_sentiment": "positive"
+        },
+        "handling": {
+            "counts": {
+                "positive": 7,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 63.64,
+                "negative": 0.0,
+                "neutral": 36.36
+            },
+            "final_sentiment": "positive"
+        },
+        "efficiency": {
+            "counts": {
+                "positive": 4,
+                "negative": 0,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 100.0,
+                "negative": 0.0,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        },
+        "eco-friendliness": {
+            "counts": {
+                "positive": 1,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 50.0,
+                "negative": 0.0,
+                "neutral": 50.0
+            },
+            "final_sentiment": "positive"
+        },
+        "maintenance": {
+            "counts": {
+                "positive": 0,
+                "negative": 1,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 0.0,
+                "negative": 50.0,
+                "neutral": 50.0
+            },
+            "final_sentiment": "negative"
+        },
+        "brand": {
+            "counts": {
+                "positive": 0,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 0.0,
+                "negative": 0.0,
+                "neutral": 100.0
+            },
+            "final_sentiment": "neutral"
+        }
+    },
+    "Mahindra XUV400 EV": {
+        "battery": {
+            "counts": {
+                "positive": 14,
+                "negative": 2,
+                "neutral": 12
+            },
+            "percentage": {
+                "positive": 50.0,
+                "negative": 7.14,
+                "neutral": 42.86
+            },
+            "final_sentiment": "positive"
+        },
+        "performance": {
+            "counts": {
+                "positive": 34,
+                "negative": 5,
+                "neutral": 15
+            },
+            "percentage": {
+                "positive": 62.96,
+                "negative": 9.26,
+                "neutral": 27.78
+            },
+            "final_sentiment": "positive"
+        },
+        "price": {
+            "counts": {
+                "positive": 16,
+                "negative": 4,
+                "neutral": 5
+            },
+            "percentage": {
+                "positive": 64.0,
+                "negative": 16.0,
+                "neutral": 20.0
+            },
+            "final_sentiment": "positive"
+        },
+        "safety": {
+            "counts": {
+                "positive": 22,
+                "negative": 2,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 88.0,
+                "negative": 8.0,
+                "neutral": 4.0
+            },
+            "final_sentiment": "positive"
+        },
+        "service": {
+            "counts": {
+                "positive": 7,
+                "negative": 1,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 77.78,
+                "negative": 11.11,
+                "neutral": 11.11
+            },
+            "final_sentiment": "positive"
+        },
+        "range": {
+            "counts": {
+                "positive": 24,
+                "negative": 8,
+                "neutral": 20
+            },
+            "percentage": {
+                "positive": 46.15,
+                "negative": 15.38,
+                "neutral": 38.46
+            },
+            "final_sentiment": "positive"
+        },
+        "space": {
+            "counts": {
+                "positive": 7,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 63.64,
+                "negative": 0.0,
+                "neutral": 36.36
+            },
+            "final_sentiment": "positive"
+        },
+        "comfort": {
+            "counts": {
+                "positive": 30,
+                "negative": 0,
+                "neutral": 7
+            },
+            "percentage": {
+                "positive": 81.08,
+                "negative": 0.0,
+                "neutral": 18.92
+            },
+            "final_sentiment": "positive"
+        },
+        "interior": {
+            "counts": {
+                "positive": 28,
+                "negative": 2,
+                "neutral": 7
+            },
+            "percentage": {
+                "positive": 75.68,
+                "negative": 5.41,
+                "neutral": 18.92
+            },
+            "final_sentiment": "positive"
+        },
+        "features": {
+            "counts": {
+                "positive": 25,
+                "negative": 3,
+                "neutral": 8
+            },
+            "percentage": {
+                "positive": 69.44,
+                "negative": 8.33,
+                "neutral": 22.22
+            },
+            "final_sentiment": "positive"
+        },
+        "charging": {
+            "counts": {
+                "positive": 18,
+                "negative": 6,
+                "neutral": 16
+            },
+            "percentage": {
+                "positive": 45.0,
+                "negative": 15.0,
+                "neutral": 40.0
+            },
+            "final_sentiment": "positive"
+        },
+        "brand": {
+            "counts": {
                 "positive": 0,
                 "negative": 0,
                 "neutral": 4
@@ -220,12 +601,23 @@
                 "neutral": 100.0
             },
             "final_sentiment": "neutral"
-        }
-    },
-    "MG ZS EV": {
-        "battery": {
+        },
+        "handling": {
             "counts": {
-                "positive": 1,
+                "positive": 6,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 85.71,
+                "negative": 0.0,
+                "neutral": 14.29
+            },
+            "final_sentiment": "positive"
+        },
+        "efficiency": {
+            "counts": {
+                "positive": 4,
                 "negative": 0,
                 "neutral": 0
             },
@@ -236,88 +628,23 @@
             },
             "final_sentiment": "positive"
         },
-        "charging": {
+        "appearance": {
             "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
+                "positive": 8,
+                "negative": 2,
+                "neutral": 4
             },
             "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
+                "positive": 57.14,
+                "negative": 14.29,
+                "neutral": 28.57
             },
             "final_sentiment": "positive"
         },
-        "interior": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "price": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "comfort": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "features": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "range": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "service": {
+        "maintenance": {
             "counts": {
                 "positive": 0,
-                "negative": 1,
+                "negative": 2,
                 "neutral": 0
             },
             "percentage": {
@@ -326,12 +653,417 @@
                 "neutral": 0.0
             },
             "final_sentiment": "negative"
+        },
+        "eco-friendliness": {
+            "counts": {
+                "positive": 2,
+                "negative": 0,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 100.0,
+                "negative": 0.0,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
         }
     },
-    "Mahindra XUV400": {
+    "Tata Punch EV": {
         "charging": {
             "counts": {
+                "positive": 18,
+                "negative": 5,
+                "neutral": 20
+            },
+            "percentage": {
+                "positive": 41.86,
+                "negative": 11.63,
+                "neutral": 46.51
+            },
+            "final_sentiment": "neutral"
+        },
+        "performance": {
+            "counts": {
+                "positive": 27,
+                "negative": 3,
+                "neutral": 21
+            },
+            "percentage": {
+                "positive": 52.94,
+                "negative": 5.88,
+                "neutral": 41.18
+            },
+            "final_sentiment": "positive"
+        },
+        "range": {
+            "counts": {
+                "positive": 16,
+                "negative": 4,
+                "neutral": 24
+            },
+            "percentage": {
+                "positive": 36.36,
+                "negative": 9.09,
+                "neutral": 54.55
+            },
+            "final_sentiment": "neutral"
+        },
+        "eco-friendliness": {
+            "counts": {
+                "positive": 3,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 75.0,
+                "negative": 0.0,
+                "neutral": 25.0
+            },
+            "final_sentiment": "positive"
+        },
+        "comfort": {
+            "counts": {
+                "positive": 24,
+                "negative": 1,
+                "neutral": 9
+            },
+            "percentage": {
+                "positive": 70.59,
+                "negative": 2.94,
+                "neutral": 26.47
+            },
+            "final_sentiment": "positive"
+        },
+        "efficiency": {
+            "counts": {
+                "positive": 34,
+                "negative": 0,
+                "neutral": 3
+            },
+            "percentage": {
+                "positive": 91.89,
+                "negative": 0.0,
+                "neutral": 8.11
+            },
+            "final_sentiment": "positive"
+        },
+        "interior": {
+            "counts": {
+                "positive": 19,
+                "negative": 0,
+                "neutral": 26
+            },
+            "percentage": {
+                "positive": 42.22,
+                "negative": 0.0,
+                "neutral": 57.78
+            },
+            "final_sentiment": "neutral"
+        },
+        "space": {
+            "counts": {
+                "positive": 6,
+                "negative": 1,
+                "neutral": 5
+            },
+            "percentage": {
+                "positive": 50.0,
+                "negative": 8.33,
+                "neutral": 41.67
+            },
+            "final_sentiment": "positive"
+        },
+        "appearance": {
+            "counts": {
                 "positive": 1,
+                "negative": 0,
+                "neutral": 7
+            },
+            "percentage": {
+                "positive": 12.5,
+                "negative": 0.0,
+                "neutral": 87.5
+            },
+            "final_sentiment": "neutral"
+        },
+        "features": {
+            "counts": {
+                "positive": 14,
+                "negative": 3,
+                "neutral": 12
+            },
+            "percentage": {
+                "positive": 48.28,
+                "negative": 10.34,
+                "neutral": 41.38
+            },
+            "final_sentiment": "positive"
+        },
+        "maintenance": {
+            "counts": {
+                "positive": 2,
+                "negative": 3,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 33.33,
+                "negative": 50.0,
+                "neutral": 16.67
+            },
+            "final_sentiment": "negative"
+        },
+        "price": {
+            "counts": {
+                "positive": 12,
+                "negative": 15,
+                "neutral": 19
+            },
+            "percentage": {
+                "positive": 26.09,
+                "negative": 32.61,
+                "neutral": 41.3
+            },
+            "final_sentiment": "neutral"
+        },
+        "safety": {
+            "counts": {
+                "positive": 19,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 95.0,
+                "negative": 0.0,
+                "neutral": 5.0
+            },
+            "final_sentiment": "positive"
+        },
+        "battery": {
+            "counts": {
+                "positive": 13,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 76.47,
+                "negative": 0.0,
+                "neutral": 23.53
+            },
+            "final_sentiment": "positive"
+        },
+        "service": {
+            "counts": {
+                "positive": 8,
+                "negative": 3,
+                "neutral": 8
+            },
+            "percentage": {
+                "positive": 42.11,
+                "negative": 15.79,
+                "neutral": 42.11
+            },
+            "final_sentiment": "positive"
+        },
+        "brand": {
+            "counts": {
+                "positive": 0,
+                "negative": 0,
+                "neutral": 7
+            },
+            "percentage": {
+                "positive": 0.0,
+                "negative": 0.0,
+                "neutral": 100.0
+            },
+            "final_sentiment": "neutral"
+        },
+        "handling": {
+            "counts": {
+                "positive": 3,
+                "negative": 0,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 100.0,
+                "negative": 0.0,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        }
+    },
+    "Hyundai Creta Electric": {
+        "battery": {
+            "counts": {
+                "positive": 16,
+                "negative": 3,
+                "neutral": 20
+            },
+            "percentage": {
+                "positive": 41.03,
+                "negative": 7.69,
+                "neutral": 51.28
+            },
+            "final_sentiment": "neutral"
+        },
+        "charging": {
+            "counts": {
+                "positive": 16,
+                "negative": 6,
+                "neutral": 19
+            },
+            "percentage": {
+                "positive": 39.02,
+                "negative": 14.63,
+                "neutral": 46.34
+            },
+            "final_sentiment": "neutral"
+        },
+        "features": {
+            "counts": {
+                "positive": 56,
+                "negative": 9,
+                "neutral": 8
+            },
+            "percentage": {
+                "positive": 76.71,
+                "negative": 12.33,
+                "neutral": 10.96
+            },
+            "final_sentiment": "positive"
+        },
+        "range": {
+            "counts": {
+                "positive": 45,
+                "negative": 9,
+                "neutral": 18
+            },
+            "percentage": {
+                "positive": 62.5,
+                "negative": 12.5,
+                "neutral": 25.0
+            },
+            "final_sentiment": "positive"
+        },
+        "service": {
+            "counts": {
+                "positive": 31,
+                "negative": 2,
+                "neutral": 23
+            },
+            "percentage": {
+                "positive": 55.36,
+                "negative": 3.57,
+                "neutral": 41.07
+            },
+            "final_sentiment": "positive"
+        },
+        "performance": {
+            "counts": {
+                "positive": 15,
+                "negative": 23,
+                "neutral": 14
+            },
+            "percentage": {
+                "positive": 28.85,
+                "negative": 44.23,
+                "neutral": 26.92
+            },
+            "final_sentiment": "negative"
+        },
+        "interior": {
+            "counts": {
+                "positive": 29,
+                "negative": 7,
+                "neutral": 12
+            },
+            "percentage": {
+                "positive": 60.42,
+                "negative": 14.58,
+                "neutral": 25.0
+            },
+            "final_sentiment": "positive"
+        },
+        "price": {
+            "counts": {
+                "positive": 32,
+                "negative": 8,
+                "neutral": 22
+            },
+            "percentage": {
+                "positive": 51.61,
+                "negative": 12.9,
+                "neutral": 35.48
+            },
+            "final_sentiment": "positive"
+        },
+        "appearance": {
+            "counts": {
+                "positive": 3,
+                "negative": 12,
+                "neutral": 5
+            },
+            "percentage": {
+                "positive": 15.0,
+                "negative": 60.0,
+                "neutral": 25.0
+            },
+            "final_sentiment": "negative"
+        },
+        "comfort": {
+            "counts": {
+                "positive": 27,
+                "negative": 31,
+                "neutral": 24
+            },
+            "percentage": {
+                "positive": 32.93,
+                "negative": 37.8,
+                "neutral": 29.27
+            },
+            "final_sentiment": "negative"
+        },
+        "safety": {
+            "counts": {
+                "positive": 15,
+                "negative": 2,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 88.24,
+                "negative": 11.76,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        },
+        "space": {
+            "counts": {
+                "positive": 6,
+                "negative": 0,
+                "neutral": 4
+            },
+            "percentage": {
+                "positive": 60.0,
+                "negative": 0.0,
+                "neutral": 40.0
+            },
+            "final_sentiment": "positive"
+        },
+        "efficiency": {
+            "counts": {
+                "positive": 8,
+                "negative": 1,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 88.89,
+                "negative": 11.11,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        },
+        "handling": {
+            "counts": {
+                "positive": 4,
                 "negative": 0,
                 "neutral": 0
             },
@@ -342,7 +1074,204 @@
             },
             "final_sentiment": "positive"
         },
+        "brand": {
+            "counts": {
+                "positive": 0,
+                "negative": 0,
+                "neutral": 3
+            },
+            "percentage": {
+                "positive": 0.0,
+                "negative": 0.0,
+                "neutral": 100.0
+            },
+            "final_sentiment": "neutral"
+        },
+        "eco-friendliness": {
+            "counts": {
+                "positive": 2,
+                "negative": 1,
+                "neutral": 0
+            },
+            "percentage": {
+                "positive": 66.67,
+                "negative": 33.33,
+                "neutral": 0.0
+            },
+            "final_sentiment": "positive"
+        },
+        "maintenance": {
+            "counts": {
+                "positive": 3,
+                "negative": 0,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 75.0,
+                "negative": 0.0,
+                "neutral": 25.0
+            },
+            "final_sentiment": "positive"
+        }
+    },
+    "Tata Harrier EV": {
+        "brand": {
+            "counts": {
+                "positive": 0,
+                "negative": 0,
+                "neutral": 23
+            },
+            "percentage": {
+                "positive": 0.0,
+                "negative": 0.0,
+                "neutral": 100.0
+            },
+            "final_sentiment": "neutral"
+        },
+        "service": {
+            "counts": {
+                "positive": 8,
+                "negative": 6,
+                "neutral": 3
+            },
+            "percentage": {
+                "positive": 47.06,
+                "negative": 35.29,
+                "neutral": 17.65
+            },
+            "final_sentiment": "positive"
+        },
         "interior": {
+            "counts": {
+                "positive": 38,
+                "negative": 14,
+                "neutral": 11
+            },
+            "percentage": {
+                "positive": 60.32,
+                "negative": 22.22,
+                "neutral": 17.46
+            },
+            "final_sentiment": "positive"
+        },
+        "range": {
+            "counts": {
+                "positive": 15,
+                "negative": 8,
+                "neutral": 9
+            },
+            "percentage": {
+                "positive": 46.88,
+                "negative": 25.0,
+                "neutral": 28.12
+            },
+            "final_sentiment": "positive"
+        },
+        "battery": {
+            "counts": {
+                "positive": 14,
+                "negative": 0,
+                "neutral": 18
+            },
+            "percentage": {
+                "positive": 43.75,
+                "negative": 0.0,
+                "neutral": 56.25
+            },
+            "final_sentiment": "neutral"
+        },
+        "charging": {
+            "counts": {
+                "positive": 4,
+                "negative": 4,
+                "neutral": 12
+            },
+            "percentage": {
+                "positive": 20.0,
+                "negative": 20.0,
+                "neutral": 60.0
+            },
+            "final_sentiment": "neutral"
+        },
+        "safety": {
+            "counts": {
+                "positive": 18,
+                "negative": 0,
+                "neutral": 6
+            },
+            "percentage": {
+                "positive": 75.0,
+                "negative": 0.0,
+                "neutral": 25.0
+            },
+            "final_sentiment": "positive"
+        },
+        "appearance": {
+            "counts": {
+                "positive": 14,
+                "negative": 6,
+                "neutral": 3
+            },
+            "percentage": {
+                "positive": 60.87,
+                "negative": 26.09,
+                "neutral": 13.04
+            },
+            "final_sentiment": "positive"
+        },
+        "comfort": {
+            "counts": {
+                "positive": 23,
+                "negative": 5,
+                "neutral": 1
+            },
+            "percentage": {
+                "positive": 79.31,
+                "negative": 17.24,
+                "neutral": 3.45
+            },
+            "final_sentiment": "positive"
+        },
+        "performance": {
+            "counts": {
+                "positive": 25,
+                "negative": 7,
+                "neutral": 10
+            },
+            "percentage": {
+                "positive": 59.52,
+                "negative": 16.67,
+                "neutral": 23.81
+            },
+            "final_sentiment": "positive"
+        },
+        "price": {
+            "counts": {
+                "positive": 18,
+                "negative": 8,
+                "neutral": 15
+            },
+            "percentage": {
+                "positive": 43.9,
+                "negative": 19.51,
+                "neutral": 36.59
+            },
+            "final_sentiment": "positive"
+        },
+        "features": {
+            "counts": {
+                "positive": 18,
+                "negative": 8,
+                "neutral": 11
+            },
+            "percentage": {
+                "positive": 48.65,
+                "negative": 21.62,
+                "neutral": 29.73
+            },
+            "final_sentiment": "positive"
+        },
+        "handling": {
             "counts": {
                 "positive": 2,
                 "negative": 0,
@@ -355,67 +1284,28 @@
             },
             "final_sentiment": "positive"
         },
-        "performance": {
+        "space": {
             "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
+                "positive": 8,
+                "negative": 2,
+                "neutral": 3
             },
             "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
+                "positive": 61.54,
+                "negative": 15.38,
+                "neutral": 23.08
             },
             "final_sentiment": "positive"
         },
-        "battery": {
+        "eco-friendliness": {
             "counts": {
-                "positive": 1,
-                "negative": 0,
+                "positive": 11,
+                "negative": 4,
                 "neutral": 0
             },
             "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
-                "neutral": 0.0
-            },
-            "final_sentiment": "positive"
-        },
-        "price": {
-            "counts": {
-                "positive": 0,
-                "negative": 0,
-                "neutral": 1
-            },
-            "percentage": {
-                "positive": 0.0,
-                "negative": 0.0,
-                "neutral": 100.0
-            },
-            "final_sentiment": "neutral"
-        },
-        "range": {
-            "counts": {
-                "positive": 0,
-                "negative": 0,
-                "neutral": 1
-            },
-            "percentage": {
-                "positive": 0.0,
-                "negative": 0.0,
-                "neutral": 100.0
-            },
-            "final_sentiment": "neutral"
-        },
-        "safety": {
-            "counts": {
-                "positive": 1,
-                "negative": 0,
-                "neutral": 0
-            },
-            "percentage": {
-                "positive": 100.0,
-                "negative": 0.0,
+                "positive": 73.33,
+                "negative": 26.67,
                 "neutral": 0.0
             },
             "final_sentiment": "positive"

@@ -2,7 +2,9 @@ import streamlit as st
 import json
 import pandas as pd
 import plotly.express as px
+import math
 
+# ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="EV Sentiment Dashboard",
     layout="wide"
@@ -10,6 +12,7 @@ st.set_page_config(
 
 st.title("EV Aspect-Based Sentiment Analysis Dashboard")
 
+# ---------------- LOAD REVIEWS ----------------
 with open("data/raw_reviews.json", "r") as f:
     reviews = json.load(f)
 
@@ -32,53 +35,103 @@ st.write(f"Total Reviews Analysed: {total_reviews}")
 
 st.divider()
 
+# ---------------- LOAD ASPECT SUMMARY ----------------
 with open("outputs/aspect_summary.json", "r") as f:
     aspect_summary = json.load(f)
 
+aspect_summary = aspect_summary[selected_model]
+
 st.subheader("📊 Key Insights")
 
+# ---------------- IMPROVED FEATURE SELECTION ----------------
 most_praised_aspect = None
-max_positive = -1
+best_positive_score = -1
 
 most_criticised_aspect = None
-max_negative = -1
+best_negative_score = -1
 
 total_positive = 0
+total_negative = 0
+total_neutral = 0
 total_mentions = 0
 
+MIN_MENTIONS_THRESHOLD = 5   # ignore very rare aspects
+
 for aspect, info in aspect_summary.items():
+
+    counts = info["counts"]
+
+    pos = counts["positive"]
+    neg = counts["negative"]
+    neu = counts["neutral"]
+
+    total = pos + neg + neu
+
+    if total < MIN_MENTIONS_THRESHOLD:
+        continue
+
+    total_positive += pos
+    total_negative += neg
+    total_neutral += neu
+    total_mentions += total
 
     pos_pct = info["percentage"]["positive"]
     neg_pct = info["percentage"]["negative"]
 
-    counts = info["counts"]
-    total = counts["positive"] + counts["negative"] + counts["neutral"]
+    # ⭐ Weighted scoring
+    weight = math.log(total + 1)
 
-    total_positive += counts["positive"]
-    total_mentions += total
+    positive_score = pos_pct * weight
+    negative_score = neg_pct * weight
 
-    if pos_pct > max_positive:
-        max_positive = pos_pct
+    if positive_score > best_positive_score:
+        best_positive_score = positive_score
         most_praised_aspect = aspect
+        praised_pct = pos_pct
 
-    if neg_pct > max_negative:
-        max_negative = neg_pct
+    if negative_score > best_negative_score:
+        best_negative_score = negative_score
         most_criticised_aspect = aspect
+        criticised_pct = neg_pct
 
+# fallback
+if most_praised_aspect is None:
+    most_praised_aspect = "N/A"
+    praised_pct = 0
+
+if most_criticised_aspect is None:
+    most_criticised_aspect = "N/A"
+    criticised_pct = 0
+
+# ---------------- SCORES ----------------
 overall_score = (total_positive / total_mentions) * 100
 
-col1, col2, col3 = st.columns(3)
+if (total_positive + total_negative) > 0:
+    opinion_score = (
+        total_positive /
+        (total_positive + total_negative)
+    ) * 100
+else:
+    opinion_score = 0
+
+acceptance_score = (
+    (total_positive + total_neutral) /
+    total_mentions
+) * 100
+
+# ---------------- METRICS ----------------
+col1, col2, col3, col4, col5 = st.columns(5)
 
 col1.metric(
     "⭐ Most Praised Feature",
     most_praised_aspect,
-    f"{round(max_positive,1)}% positive"
+    f"{round(praised_pct,1)}% positive"
 )
 
 col2.metric(
     "⚠️ Most Criticised Feature",
     most_criticised_aspect,
-    f"{round(max_negative,1)}% negative"
+    f"{round(criticised_pct,1)}% negative"
 )
 
 col3.metric(
@@ -86,14 +139,23 @@ col3.metric(
     f"{round(overall_score,1)}%"
 )
 
+col4.metric(
+    "🔥 Opinion Satisfaction",
+    f"{round(opinion_score,1)}%"
+)
+
+col5.metric(
+    "👍 Acceptance Score",
+    f"{round(acceptance_score,1)}%"
+)
+
 st.divider()
 
-with open("outputs/aspect_summary.json", "r") as f:
-    aspect_summary = json.load(f)
-
+# ---------------- BAR CHART ----------------
 chart_data = []
 
 for aspect, info in aspect_summary.items():
+
     counts = info["counts"]
     total = counts["positive"] + counts["negative"] + counts["neutral"]
 
@@ -140,11 +202,13 @@ st.plotly_chart(fig, width="stretch")
 
 st.divider()
 
+# ---------------- TABLE ----------------
 st.subheader("Aspect Sentiment Detailed Table")
 
 table_data = []
 
 for aspect, info in aspect_summary.items():
+
     counts = info["counts"]
     perc = info["percentage"]
 
@@ -174,6 +238,7 @@ st.dataframe(
 
 st.divider()
 
+# ---------------- DRILL DOWN ----------------
 st.subheader("🔎 Aspect Drill-Down Viewer")
 
 with open("outputs/final_aspect_sentiment.json", "r") as f:
@@ -204,6 +269,9 @@ filtered = []
 
 for item in review_level_data:
 
+    if item["vehicle_model"] != selected_model:
+        continue
+
     aspect_dict = item["aspect_sentiment"]
 
     if selected_aspect in aspect_dict:
@@ -221,15 +289,12 @@ total_reviews = len(filtered)
 st.write(f"Total matching reviews: {total_reviews}")
 
 if total_reviews == 0:
-
     st.warning("No reviews found for selected filters")
 
 else:
 
     if total_reviews <= 5:
-        st.write(f"Showing all {total_reviews} reviews")
         num_to_show = total_reviews
-
     else:
         num_to_show = st.slider(
             "Number of reviews to display",
@@ -254,9 +319,7 @@ else:
 
         if sentiment == "positive":
             st.success(display_text)
-
         elif sentiment == "negative":
             st.error(display_text)
-
         else:
             st.info(display_text)
